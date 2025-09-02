@@ -49,3 +49,4 @@
 - Learned if statements, conditional branching.
 - Learned boolean logic, combining conditions.
 - Learned a should-serve-drinks exercise, age-check conditional logic.
+- Learned a mount-rental exercise, multiple condition checks.
