@@ -37,3 +37,4 @@
 - Learned reading a stack trace to find where an error actually occurred.
 - Learned general debugging practice, working through broken code methodically.
 - Learned floor division and exponents in Python.
+- Learned in-place operators like +=.
