@@ -20,3 +20,4 @@
 - Learned a boots inventory exercise, tracking item stats in variables.
 - Learned a spellbook exercise, organizing variable data for a small game.
 - Learned defining functions, calling them with arguments.
+- Learned functions with multiple parameters.
