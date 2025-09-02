@@ -48,3 +48,4 @@
 - Learned comparison operators (==, !=, <, >).
 - Learned if statements, conditional branching.
 - Learned boolean logic, combining conditions.
+- Learned a should-serve-drinks exercise, age-check conditional logic.
