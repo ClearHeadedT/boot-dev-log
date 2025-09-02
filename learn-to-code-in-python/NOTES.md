@@ -27,3 +27,4 @@
 - Learned functions returning multiple values at once.
 - Learned parameters vs. arguments, the actual terminology difference.
 - Learned default parameter values.
+- Learned a curse exercise, writing functions with conditional effects.
