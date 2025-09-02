@@ -42,3 +42,4 @@
 - Learned binary numbers, how computers represent values at a low level.
 - Learned bitwise AND/OR operators.
 - Learned a damage-meter exercise, applying math operators to game stats.
+- Learned converting between binary and decimal.
