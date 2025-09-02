@@ -31,3 +31,4 @@
 - Learned an enchant-and-attack exercise, functions modifying game state.
 - Learned an archmage capstone exercise, combining everything from the functions chapter.
 - Learned variable scope, local vs. global.
+- Learned when and why to avoid relying on global variables.
