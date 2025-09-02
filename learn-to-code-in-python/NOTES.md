@@ -9,3 +9,4 @@
 - Learned a small game-stats exercise, printing formatted output.
 - Learned a shop-response exercise, basic program flow start to finish.
 - Learned general intro practice, tying together console output and program structure.
+- Learned variables, assigning and reassigning values.
