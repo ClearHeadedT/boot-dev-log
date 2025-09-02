@@ -7,3 +7,4 @@
 - Learned basic program flow, working through early console exercises.
 - Learned to work through lesson failures without getting stuck, iterating on wrong answers.
 - Learned a small game-stats exercise, printing formatted output.
+- Learned a shop-response exercise, basic program flow start to finish.
