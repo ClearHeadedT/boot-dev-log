@@ -46,3 +46,4 @@
 - Learned general numeric operations practice.
 - Learned reviewing number types and operator precedence.
 - Learned comparison operators (==, !=, <, >).
+- Learned if statements, conditional branching.
