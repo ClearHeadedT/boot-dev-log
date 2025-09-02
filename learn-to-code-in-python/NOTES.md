@@ -34,3 +34,4 @@
 - Learned when and why to avoid relying on global variables.
 - Learned writing basic unit tests to verify code behavior.
 - Learned a real debugging workflow instead of guessing at fixes.
+- Learned reading a stack trace to find where an error actually occurred.
