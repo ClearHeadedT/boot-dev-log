@@ -39,3 +39,4 @@
 - Learned floor division and exponents in Python.
 - Learned in-place operators like +=.
 - Learned logical operators (and/or/not).
+- Learned binary numbers, how computers represent values at a low level.
