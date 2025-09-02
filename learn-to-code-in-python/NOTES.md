@@ -29,3 +29,4 @@
 - Learned default parameter values.
 - Learned a curse exercise, writing functions with conditional effects.
 - Learned an enchant-and-attack exercise, functions modifying game state.
+- Learned an archmage capstone exercise, combining everything from the functions chapter.
