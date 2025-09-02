@@ -41,3 +41,4 @@
 - Learned logical operators (and/or/not).
 - Learned binary numbers, how computers represent values at a low level.
 - Learned bitwise AND/OR operators.
+- Learned a damage-meter exercise, applying math operators to game stats.
