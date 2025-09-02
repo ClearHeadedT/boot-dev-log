@@ -52,3 +52,4 @@
 - Learned a mount-rental exercise, multiple condition checks.
 - Learned a combat-advantage exercise, comparing stats to decide outcomes.
 - Learned general if/else practice across several small scenarios.
+- Learned boolean quiz concepts, truthy vs. falsy evaluation.
