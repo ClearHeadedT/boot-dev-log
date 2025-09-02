@@ -33,3 +33,4 @@
 - Learned variable scope, local vs. global.
 - Learned when and why to avoid relying on global variables.
 - Learned writing basic unit tests to verify code behavior.
+- Learned a real debugging workflow instead of guessing at fixes.
