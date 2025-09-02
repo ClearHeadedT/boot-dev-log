@@ -14,3 +14,4 @@
 - Learned basic variable types: strings, ints, floats, booleans.
 - Learned f-strings for formatting output with embedded variables.
 - Learned NoneType, what 'no value' means in Python.
+- Learned dynamic typing, how Python infers types at runtime.
