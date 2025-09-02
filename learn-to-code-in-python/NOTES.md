@@ -10,3 +10,4 @@
 - Learned a shop-response exercise, basic program flow start to finish.
 - Learned general intro practice, tying together console output and program structure.
 - Learned variables, assigning and reassigning values.
+- Learned writing comments, naming variables clearly.
