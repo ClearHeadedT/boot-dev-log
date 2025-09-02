@@ -51,3 +51,4 @@
 - Learned a should-serve-drinks exercise, age-check conditional logic.
 - Learned a mount-rental exercise, multiple condition checks.
 - Learned a combat-advantage exercise, comparing stats to decide outcomes.
+- Learned general if/else practice across several small scenarios.
