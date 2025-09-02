@@ -17,3 +17,4 @@
 - Learned dynamic typing, how Python infers types at runtime.
 - Learned string concatenation and math with strings.
 - Learned declaring multiple variables on one line.
+- Learned a boots inventory exercise, tracking item stats in variables.
