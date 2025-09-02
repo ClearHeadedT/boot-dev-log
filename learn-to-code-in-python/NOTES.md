@@ -24,3 +24,4 @@
 - Learned the difference between printing inside a function and returning a value.
 - Learned where functions need to be declared and function ordering rules.
 - Learned functions that return nothing (None) implicitly.
+- Learned functions returning multiple values at once.
