@@ -26,3 +26,4 @@
 - Learned functions that return nothing (None) implicitly.
 - Learned functions returning multiple values at once.
 - Learned parameters vs. arguments, the actual terminology difference.
+- Learned default parameter values.
