@@ -21,3 +21,4 @@
 - Learned a spellbook exercise, organizing variable data for a small game.
 - Learned defining functions, calling them with arguments.
 - Learned functions with multiple parameters.
+- Learned the difference between printing inside a function and returning a value.
