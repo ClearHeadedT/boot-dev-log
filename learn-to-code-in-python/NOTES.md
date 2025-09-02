@@ -22,3 +22,4 @@
 - Learned defining functions, calling them with arguments.
 - Learned functions with multiple parameters.
 - Learned the difference between printing inside a function and returning a value.
+- Learned where functions need to be declared and function ordering rules.
