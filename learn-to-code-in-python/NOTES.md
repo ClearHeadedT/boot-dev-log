@@ -25,3 +25,4 @@
 - Learned where functions need to be declared and function ordering rules.
 - Learned functions that return nothing (None) implicitly.
 - Learned functions returning multiple values at once.
+- Learned parameters vs. arguments, the actual terminology difference.
