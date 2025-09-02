@@ -5,3 +5,4 @@
 - Learned running multiple instructions in sequence, how the interpreter executes line by line.
 - Learned syntax errors, what they look like and how to read the error message.
 - Learned basic program flow, working through early console exercises.
+- Learned to work through lesson failures without getting stuck, iterating on wrong answers.
