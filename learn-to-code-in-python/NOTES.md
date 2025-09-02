@@ -12,3 +12,4 @@
 - Learned variables, assigning and reassigning values.
 - Learned writing comments, naming variables clearly.
 - Learned basic variable types: strings, ints, floats, booleans.
+- Learned f-strings for formatting output with embedded variables.
