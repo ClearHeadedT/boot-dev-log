@@ -61,3 +61,4 @@
 - Learned general computing-chapter practice, numbers and bitwise operations together.
 - Learned a sum-game exercise, accumulating totals in a loop.
 - Learned a match-countdown exercise, loop-driven game logic.
+- Learned an experience-points exercise, looping over game events.
