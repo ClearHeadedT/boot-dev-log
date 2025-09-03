@@ -59,3 +59,4 @@
 - Learned Python's whitespace/indentation rules for blocks.
 - Learned combining bitwise operators in small practice problems.
 - Learned general computing-chapter practice, numbers and bitwise operations together.
+- Learned a sum-game exercise, accumulating totals in a loop.
