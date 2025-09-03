@@ -54,3 +54,4 @@
 - Learned general if/else practice across several small scenarios.
 - Learned boolean quiz concepts, truthy vs. falsy evaluation.
 - Learned comparison operator evaluation order.
+- Learned for loops and the range() function.
