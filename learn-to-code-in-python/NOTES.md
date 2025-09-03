@@ -57,3 +57,4 @@
 - Learned for loops and the range() function.
 - Learned while loops.
 - Learned Python's whitespace/indentation rules for blocks.
+- Learned combining bitwise operators in small practice problems.
