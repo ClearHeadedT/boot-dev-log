@@ -63,3 +63,4 @@
 - Learned a match-countdown exercise, loop-driven game logic.
 - Learned an experience-points exercise, looping over game events.
 - Learned a meditate exercise, loop-based state changes over time.
+- Learned general loop practice across multiple exercises.
