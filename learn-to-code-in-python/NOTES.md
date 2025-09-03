@@ -55,3 +55,4 @@
 - Learned boolean quiz concepts, truthy vs. falsy evaluation.
 - Learned comparison operator evaluation order.
 - Learned for loops and the range() function.
+- Learned while loops.
