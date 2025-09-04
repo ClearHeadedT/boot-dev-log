@@ -68,3 +68,4 @@
 - Learned range() with start/stop/step arguments.
 - Learned list length and updating values by index.
 - Learned appending and popping values from a list.
+- Learned counting items in a list.
