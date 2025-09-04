@@ -83,3 +83,4 @@
 - Learned counting-in-programming fundamentals, zero-indexing.
 - Learned general list-manipulation practice across several small exercises.
 - Learned dictionaries, key-value pairs.
+- Learned accessing, setting, and updating dictionary values.
