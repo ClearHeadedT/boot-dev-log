@@ -94,3 +94,4 @@
 - Learned a vowels exercise, using a set for fast membership checks.
 - Learned try/except blocks for handling errors.
 - Learned raising my own custom exceptions.
+- Learned a purchase-bug exercise, debugging a real error scenario.
