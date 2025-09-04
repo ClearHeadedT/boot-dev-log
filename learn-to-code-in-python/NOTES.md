@@ -101,3 +101,4 @@
 - Learned type hints, annotating variables and function signatures.
 - Learned type-hinting function parameters and return types.
 - Learned hints for lists, sets, and dictionaries.
+- Learned hints for tuples and nested container types.
