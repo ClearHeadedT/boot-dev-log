@@ -71,3 +71,4 @@
 - Learned counting items in a list.
 - Learned negative/no-index syntax for accessing from the end.
 - Learned searching a list for a specific item.
+- Learned finding max/min values in a list.
