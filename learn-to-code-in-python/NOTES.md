@@ -77,3 +77,4 @@
 - Learned an even-teams exercise, splitting a list into balanced groups.
 - Learned deleting items from a list.
 - Learned tuples, immutable ordered collections.
+- Learned accessing the first element and basic tuple unpacking.
