@@ -65,3 +65,4 @@
 - Learned a meditate exercise, loop-based state changes over time.
 - Learned general loop practice across multiple exercises.
 - Learned reviewing loop patterns and common pitfalls.
+- Learned range() with start/stop/step arguments.
