@@ -66,3 +66,4 @@
 - Learned general loop practice across multiple exercises.
 - Learned reviewing loop patterns and common pitfalls.
 - Learned range() with start/stop/step arguments.
+- Learned list length and updating values by index.
