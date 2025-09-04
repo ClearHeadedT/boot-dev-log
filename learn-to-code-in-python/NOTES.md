@@ -100,3 +100,4 @@
 - Learned exception review concepts, structuring try/except blocks cleanly.
 - Learned type hints, annotating variables and function signatures.
 - Learned type-hinting function parameters and return types.
+- Learned hints for lists, sets, and dictionaries.
