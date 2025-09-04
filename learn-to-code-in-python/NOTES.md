@@ -93,3 +93,4 @@
 - Learned set subtraction to find differences between two sets.
 - Learned a vowels exercise, using a set for fast membership checks.
 - Learned try/except blocks for handling errors.
+- Learned raising my own custom exceptions.
