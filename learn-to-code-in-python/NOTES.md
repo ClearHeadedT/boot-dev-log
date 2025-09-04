@@ -82,3 +82,4 @@
 - Learned a filter-messages exercise, building a new list from a condition.
 - Learned counting-in-programming fundamentals, zero-indexing.
 - Learned general list-manipulation practice across several small exercises.
+- Learned dictionaries, key-value pairs.
