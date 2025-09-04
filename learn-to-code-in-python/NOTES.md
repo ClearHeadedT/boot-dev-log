@@ -79,3 +79,4 @@
 - Learned tuples, immutable ordered collections.
 - Learned accessing the first element and basic tuple unpacking.
 - Learned an alchemy-ingredients exercise, combining list operations on real data.
+- Learned a filter-messages exercise, building a new list from a condition.
