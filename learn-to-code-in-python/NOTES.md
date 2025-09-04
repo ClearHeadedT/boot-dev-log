@@ -86,3 +86,4 @@
 - Learned accessing, setting, and updating dictionary values.
 - Learned iterating over a dictionary's keys and values.
 - Learned merging two dictionaries together.
+- Learned a quest-status exercise, tracking game state in a dict.
