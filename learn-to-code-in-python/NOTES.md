@@ -91,3 +91,4 @@
 - Learned a counting-practice exercise using a dictionary as a tally.
 - Learned sets, unique unordered collections.
 - Learned set subtraction to find differences between two sets.
+- Learned a vowels exercise, using a set for fast membership checks.
