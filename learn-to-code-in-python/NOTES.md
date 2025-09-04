@@ -67,3 +67,4 @@
 - Learned reviewing loop patterns and common pitfalls.
 - Learned range() with start/stop/step arguments.
 - Learned list length and updating values by index.
+- Learned appending and popping values from a list.
