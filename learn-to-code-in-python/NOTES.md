@@ -85,3 +85,4 @@
 - Learned dictionaries, key-value pairs.
 - Learned accessing, setting, and updating dictionary values.
 - Learned iterating over a dictionary's keys and values.
+- Learned merging two dictionaries together.
