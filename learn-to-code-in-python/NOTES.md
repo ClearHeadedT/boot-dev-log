@@ -96,3 +96,4 @@
 - Learned raising my own custom exceptions.
 - Learned a purchase-bug exercise, debugging a real error scenario.
 - Learned general exception-handling practice across several scenarios.
+- Learned reviewing when to catch vs. let an exception propagate.
