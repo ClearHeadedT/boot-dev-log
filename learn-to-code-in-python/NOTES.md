@@ -92,3 +92,4 @@
 - Learned sets, unique unordered collections.
 - Learned set subtraction to find differences between two sets.
 - Learned a vowels exercise, using a set for fast membership checks.
+- Learned try/except blocks for handling errors.
