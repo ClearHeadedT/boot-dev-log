@@ -75,3 +75,4 @@
 - Learned reversing a list.
 - Learned filtering a list based on a condition.
 - Learned an even-teams exercise, splitting a list into balanced groups.
+- Learned deleting items from a list.
