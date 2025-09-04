@@ -69,3 +69,4 @@
 - Learned list length and updating values by index.
 - Learned appending and popping values from a list.
 - Learned counting items in a list.
+- Learned negative/no-index syntax for accessing from the end.
