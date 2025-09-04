@@ -103,3 +103,4 @@
 - Learned hints for lists, sets, and dictionaries.
 - Learned hints for tuples and nested container types.
 - Learned Optional[] for values that might be None.
+- Learned specific container typing, being precise about what's inside a list/dict.
