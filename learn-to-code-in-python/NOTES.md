@@ -90,3 +90,4 @@
 - Learned handling duplicate keys and dictionary ordering behavior.
 - Learned a counting-practice exercise using a dictionary as a tally.
 - Learned sets, unique unordered collections.
+- Learned set subtraction to find differences between two sets.
