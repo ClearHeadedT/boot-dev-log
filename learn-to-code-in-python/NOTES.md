@@ -88,3 +88,4 @@
 - Learned merging two dictionaries together.
 - Learned a quest-status exercise, tracking game state in a dict.
 - Learned handling duplicate keys and dictionary ordering behavior.
+- Learned a counting-practice exercise using a dictionary as a tally.
