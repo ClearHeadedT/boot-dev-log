@@ -98,3 +98,4 @@
 - Learned general exception-handling practice across several scenarios.
 - Learned reviewing when to catch vs. let an exception propagate.
 - Learned exception review concepts, structuring try/except blocks cleanly.
+- Learned type hints, annotating variables and function signatures.
