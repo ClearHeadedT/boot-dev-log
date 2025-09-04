@@ -73,3 +73,4 @@
 - Learned searching a list for a specific item.
 - Learned finding max/min values in a list.
 - Learned reversing a list.
+- Learned filtering a list based on a condition.
