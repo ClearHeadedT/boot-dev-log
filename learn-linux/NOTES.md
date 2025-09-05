@@ -18,3 +18,4 @@
 - Learned finding files by name/pattern with find.
 - Learned compiled vs. interpreted languages.
 - Learned what makes a file executable.
+- Learned shebang lines and how the shell picks an interpreter.
