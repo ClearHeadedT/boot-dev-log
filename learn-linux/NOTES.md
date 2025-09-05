@@ -6,3 +6,4 @@
 - Learned navigating shell history efficiently.
 - Learned the basics of typing and executing commands in a terminal.
 - Learned what a filesystem is, absolute vs. relative filepaths.
+- Learned parent directories and navigating up/down a file tree.
