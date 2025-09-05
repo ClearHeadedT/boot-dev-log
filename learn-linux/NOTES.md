@@ -10,3 +10,4 @@
 - Learned viewing file contents with head and tail.
 - Learned paging through files with more and less.
 - Learned creating files with touch.
+- Learned creating, moving, and removing directories.
