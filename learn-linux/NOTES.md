@@ -9,3 +9,4 @@
 - Learned parent directories and navigating up/down a file tree.
 - Learned viewing file contents with head and tail.
 - Learned paging through files with more and less.
+- Learned creating files with touch.
