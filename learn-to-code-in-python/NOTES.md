@@ -110,3 +110,4 @@
 - Learned a find-min exercise, iterating to find the smallest value.
 - Learned a factorial exercise, recursive/iterative math logic.
 - Learned removing non-integer values from a mixed list.
+- Learned a list-division exercise, splitting data into chunks.
