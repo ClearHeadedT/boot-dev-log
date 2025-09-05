@@ -107,3 +107,4 @@
 - Learned general type-hints practice across a few small functions.
 - Learned why type hints help catch bugs before runtime, even though Python doesn't enforce them.
 - Learned a number-sum exercise, combining loops and math.
+- Learned a find-min exercise, iterating to find the smallest value.
