@@ -19,3 +19,4 @@
 - Learned compiled vs. interpreted languages.
 - Learned what makes a file executable.
 - Learned shebang lines and how the shell picks an interpreter.
+- Learned environment variables and how programs read them.
