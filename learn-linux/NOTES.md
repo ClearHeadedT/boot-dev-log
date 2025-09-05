@@ -11,3 +11,4 @@
 - Learned paging through files with more and less.
 - Learned creating files with touch.
 - Learned creating, moving, and removing directories.
+- Learned copying files and directories.
