@@ -15,3 +15,4 @@
 - Learned the home directory and shortcuts for navigating to it.
 - Learned searching file contents with grep.
 - Learned grepping across multiple files at once.
+- Learned finding files by name/pattern with find.
