@@ -111,3 +111,4 @@
 - Learned a factorial exercise, recursive/iterative math logic.
 - Learned removing non-integer values from a mixed list.
 - Learned a list-division exercise, splitting data into chunks.
+- Learned a join-strings exercise, combining a list into one string.
