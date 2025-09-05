@@ -109,3 +109,4 @@
 - Learned a number-sum exercise, combining loops and math.
 - Learned a find-min exercise, iterating to find the smallest value.
 - Learned a factorial exercise, recursive/iterative math logic.
+- Learned removing non-integer values from a mixed list.
