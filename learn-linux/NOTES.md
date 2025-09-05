@@ -13,3 +13,4 @@
 - Learned creating, moving, and removing directories.
 - Learned copying files and directories.
 - Learned the home directory and shortcuts for navigating to it.
+- Learned searching file contents with grep.
