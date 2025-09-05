@@ -17,3 +17,4 @@
 - Learned grepping across multiple files at once.
 - Learned finding files by name/pattern with find.
 - Learned compiled vs. interpreted languages.
+- Learned what makes a file executable.
