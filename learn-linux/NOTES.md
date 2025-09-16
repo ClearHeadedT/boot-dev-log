@@ -25,3 +25,4 @@
 - Learned exit codes and what they signal about success/failure.
 - Learned standard output and standard error streams.
 - Learned standard input and reading from it.
+- Learned piping output from one command into another.
