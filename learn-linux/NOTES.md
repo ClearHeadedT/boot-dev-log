@@ -23,3 +23,4 @@
 - Learned the PATH variable and how the shell finds commands.
 - Learned flags and positional arguments for CLI programs.
 - Learned exit codes and what they signal about success/failure.
+- Learned standard output and standard error streams.
