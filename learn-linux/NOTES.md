@@ -27,3 +27,4 @@
 - Learned standard input and reading from it.
 - Learned piping output from one command into another.
 - Learned the Unix philosophy, small composable tools.
+- Learned setting up a local terminal and WSL.
