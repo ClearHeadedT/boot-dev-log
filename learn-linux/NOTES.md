@@ -26,3 +26,4 @@
 - Learned standard output and standard error streams.
 - Learned standard input and reading from it.
 - Learned piping output from one command into another.
+- Learned the Unix philosophy, small composable tools.
