@@ -29,3 +29,4 @@
 - Learned the Unix philosophy, small composable tools.
 - Learned setting up a local terminal and WSL.
 - Learned customizing shell configuration files.
+- Learned configuring PATH locally.
