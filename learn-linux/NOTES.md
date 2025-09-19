@@ -30,3 +30,4 @@
 - Learned setting up a local terminal and WSL.
 - Learned customizing shell configuration files.
 - Learned configuring PATH locally.
+- Learned using man pages to look up command documentation.
