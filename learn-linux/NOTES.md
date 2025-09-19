@@ -33,3 +33,4 @@
 - Learned using man pages to look up command documentation.
 - Learned symbolic links between files.
 - Learned monitoring running processes with top.
+- Learned interrupting a running process.
