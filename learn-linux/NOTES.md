@@ -31,3 +31,4 @@
 - Learned customizing shell configuration files.
 - Learned configuring PATH locally.
 - Learned using man pages to look up command documentation.
+- Learned symbolic links between files.
