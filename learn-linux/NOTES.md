@@ -37,3 +37,4 @@
 - Learned killing a stuck process.
 - Learned Linux users and the whoami/sudo commands.
 - Learned file permissions and how to read them.
+- Learned changing permissions with chmod-style commands.
