@@ -39,3 +39,4 @@
 - Learned file permissions and how to read them.
 - Learned changing permissions with chmod-style commands.
 - Learned making a script executable.
+- Learned the root user and elevated privileges.
