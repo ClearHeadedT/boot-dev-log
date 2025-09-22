@@ -43,3 +43,4 @@
 - Learned package managers for installing software.
 - Learned basic Neovim usage.
 - Learned comparing code editor options.
+- Learned setting up a code editor to work well with WSL.
