@@ -34,3 +34,4 @@
 - Learned symbolic links between files.
 - Learned monitoring running processes with top.
 - Learned interrupting a running process.
+- Learned killing a stuck process.
