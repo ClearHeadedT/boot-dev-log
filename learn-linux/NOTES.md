@@ -35,3 +35,4 @@
 - Learned monitoring running processes with top.
 - Learned interrupting a running process.
 - Learned killing a stuck process.
+- Learned Linux users and the whoami/sudo commands.
