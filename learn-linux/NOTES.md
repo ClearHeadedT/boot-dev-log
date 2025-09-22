@@ -42,3 +42,4 @@
 - Learned the root user and elevated privileges.
 - Learned package managers for installing software.
 - Learned basic Neovim usage.
+- Learned comparing code editor options.
