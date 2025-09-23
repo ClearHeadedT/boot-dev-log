@@ -6,3 +6,4 @@
 - Learned sorting a dictionary by value to rank the most common characters.
 - Learned formatting a clean word/character-count report to stdout.
 - Learned structuring the project into separate functions instead of one big script.
+- Learned handling case-insensitivity when counting letters.
