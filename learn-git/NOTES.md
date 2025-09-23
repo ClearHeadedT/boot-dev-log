@@ -5,3 +5,4 @@
 - Learned reading Git's own documentation/help output.
 - Learned the porcelain vs. plumbing distinction in Git's commands.
 - Learned quick global Git configuration setup.
+- Learned initializing a repository and checking status.
