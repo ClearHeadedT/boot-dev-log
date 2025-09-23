@@ -8,3 +8,4 @@
 - Learned structuring the project into separate functions instead of one big script.
 - Learned handling case-insensitivity when counting letters.
 - Learned filtering out non-alphabetic characters from the count.
+- Learned putting the whole Bookbot pipeline together end to end.
