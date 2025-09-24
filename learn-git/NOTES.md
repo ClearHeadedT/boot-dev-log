@@ -9,3 +9,4 @@
 - Learned staging changes before committing.
 - Learned making commits and reading git log.
 - Learned the core commit/staging workflow end to end.
+- Learned how Git hashes content to identify objects.
