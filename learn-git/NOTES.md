@@ -8,3 +8,4 @@
 - Learned initializing a repository and checking status.
 - Learned staging changes before committing.
 - Learned making commits and reading git log.
+- Learned the core commit/staging workflow end to end.
