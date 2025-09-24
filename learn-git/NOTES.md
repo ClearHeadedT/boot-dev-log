@@ -7,3 +7,4 @@
 - Learned quick global Git configuration setup.
 - Learned initializing a repository and checking status.
 - Learned staging changes before committing.
+- Learned making commits and reading git log.
