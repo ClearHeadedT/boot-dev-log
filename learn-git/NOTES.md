@@ -14,3 +14,4 @@
 - Learned inspecting raw object files with cat-file.
 - Learned trees and blobs, how Git actually stores file snapshots.
 - Learned how a second commit links back to its parent internally.
+- Learned reading and setting Git config values.
