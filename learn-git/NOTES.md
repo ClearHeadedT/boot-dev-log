@@ -12,3 +12,4 @@
 - Learned how Git hashes content to identify objects.
 - Learned Git's internal object storage (the plumbing layer).
 - Learned inspecting raw object files with cat-file.
+- Learned trees and blobs, how Git actually stores file snapshots.
