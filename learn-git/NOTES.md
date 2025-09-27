@@ -17,3 +17,4 @@
 - Learned reading and setting Git config values.
 - Learned unsetting and removing config entries.
 - Learned handling duplicate config values.
+- Learned the different levels Git config can live at (local/global).
