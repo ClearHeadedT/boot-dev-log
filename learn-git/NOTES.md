@@ -10,3 +10,4 @@
 - Learned making commits and reading git log.
 - Learned the core commit/staging workflow end to end.
 - Learned how Git hashes content to identify objects.
+- Learned Git's internal object storage (the plumbing layer).
