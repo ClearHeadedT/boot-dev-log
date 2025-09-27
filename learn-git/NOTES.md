@@ -11,3 +11,4 @@
 - Learned the core commit/staging workflow end to end.
 - Learned how Git hashes content to identify objects.
 - Learned Git's internal object storage (the plumbing layer).
+- Learned inspecting raw object files with cat-file.
