@@ -18,3 +18,4 @@
 - Learned unsetting and removing config entries.
 - Learned handling duplicate config values.
 - Learned the different levels Git config can live at (local/global).
+- Learned what a branch actually is under the hood.
