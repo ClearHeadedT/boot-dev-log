@@ -21,3 +21,4 @@
 - Learned what a branch actually is under the hood.
 - Learned the default branch and creating new branches.
 - Learned switching between branches.
+- Learned visualizing branch history.
