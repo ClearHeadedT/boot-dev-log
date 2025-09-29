@@ -20,3 +20,4 @@
 - Learned the different levels Git config can live at (local/global).
 - Learned what a branch actually is under the hood.
 - Learned the default branch and creating new branches.
+- Learned switching between branches.
