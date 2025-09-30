@@ -26,3 +26,4 @@
 - Learned Git's internal files that track branch state.
 - Learned merging branches together.
 - Learned reading merge commits in the log.
+- Learned fast-forward merges vs. regular merges.
