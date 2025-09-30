@@ -23,3 +23,4 @@
 - Learned switching between branches.
 - Learned visualizing branch history.
 - Learned useful git log flags for inspecting history.
+- Learned Git's internal files that track branch state.
