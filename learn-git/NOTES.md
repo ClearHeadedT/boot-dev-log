@@ -25,3 +25,4 @@
 - Learned useful git log flags for inspecting history.
 - Learned Git's internal files that track branch state.
 - Learned merging branches together.
+- Learned reading merge commits in the log.
