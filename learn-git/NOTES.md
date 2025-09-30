@@ -22,3 +22,4 @@
 - Learned the default branch and creating new branches.
 - Learned switching between branches.
 - Learned visualizing branch history.
+- Learned useful git log flags for inspecting history.
