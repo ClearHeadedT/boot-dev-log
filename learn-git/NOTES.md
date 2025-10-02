@@ -34,3 +34,4 @@
 - Learned undoing changes with git reset.
 - Learned the difference between a soft and hard reset.
 - Learned the danger of hard resets losing uncommitted work.
+- Learned adding a remote repository.
