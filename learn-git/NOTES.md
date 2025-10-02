@@ -28,3 +28,4 @@
 - Learned reading merge commits in the log.
 - Learned fast-forward merges vs. regular merges.
 - Learned when Git can fast-forward a commit automatically.
+- Learned rebasing a branch onto another.
