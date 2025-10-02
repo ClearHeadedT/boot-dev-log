@@ -32,3 +32,4 @@
 - Learned running an actual rebase end to end.
 - Learned when to rebase vs. when to merge instead.
 - Learned undoing changes with git reset.
+- Learned the difference between a soft and hard reset.
