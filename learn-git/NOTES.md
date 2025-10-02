@@ -30,3 +30,4 @@
 - Learned when Git can fast-forward a commit automatically.
 - Learned rebasing a branch onto another.
 - Learned running an actual rebase end to end.
+- Learned when to rebase vs. when to merge instead.
