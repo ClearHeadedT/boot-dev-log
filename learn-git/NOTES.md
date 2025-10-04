@@ -40,3 +40,4 @@
 - Learned reading remote-tracking branches in the log.
 - Learned merging fetched remote changes into a local branch.
 - Learned connecting a local repo to a GitHub repository.
+- Learned pushing commits to GitHub.
