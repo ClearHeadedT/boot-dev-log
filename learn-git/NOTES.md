@@ -36,3 +36,4 @@
 - Learned the danger of hard resets losing uncommitted work.
 - Learned adding a remote repository.
 - Learned fetching changes from a remote without merging.
+- Learned the difference between fetched and not-yet-fetched state.
