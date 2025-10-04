@@ -39,3 +39,4 @@
 - Learned the difference between fetched and not-yet-fetched state.
 - Learned reading remote-tracking branches in the log.
 - Learned merging fetched remote changes into a local branch.
+- Learned connecting a local repo to a GitHub repository.
