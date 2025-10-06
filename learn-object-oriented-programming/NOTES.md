@@ -4,3 +4,4 @@
 - Learned clean code principles, readability and naming that doesn't require guessing.
 - Learned DRY (Don't Repeat Yourself), refactoring duplicated logic into reusable functions.
 - Learned Python class basics, init functionality, instances.
+- Learned methods vs. regular functions, how they're tied to an object.
