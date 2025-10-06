@@ -42,3 +42,4 @@
 - Learned connecting a local repo to a GitHub repository.
 - Learned pushing commits to GitHub.
 - Learned pulling changes down from GitHub.
+- Learned opening and merging a pull request.
