@@ -9,3 +9,4 @@
 - Learned constructors, setting up default object state on creation.
 - Learned working with multiple objects/instances of the same class independently.
 - Learned class variables vs. instance variables, shared state vs. per-object state.
+- Learned building a small archer class exercise to practice object attributes and methods.
