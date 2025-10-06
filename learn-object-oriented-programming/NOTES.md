@@ -12,3 +12,4 @@
 - Learned building a small archer class exercise to practice object attributes and methods.
 - Learned general classes practice, writing a class from scratch end to end.
 - Learned distinguishing when to use a class method vs. a plain function.
+- Learned Python's underscore convention for signaling private attributes.
