@@ -45,3 +45,4 @@
 - Learned opening and merging a pull request.
 - Learned a full personal Git workflow from branch to merged PR.
 - Learned writing a .gitignore file to exclude files from tracking.
+- Learned nested .gitignore files in subdirectories.
