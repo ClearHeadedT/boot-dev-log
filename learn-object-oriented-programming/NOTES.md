@@ -7,3 +7,4 @@
 - Learned methods vs. regular functions, how they're tied to an object.
 - Learned methods that return values vs. just mutate state.
 - Learned constructors, setting up default object state on creation.
+- Learned working with multiple objects/instances of the same class independently.
