@@ -46,3 +46,4 @@
 - Learned a full personal Git workflow from branch to merged PR.
 - Learned writing a .gitignore file to exclude files from tracking.
 - Learned nested .gitignore files in subdirectories.
+- Learned common gitignore patterns and what's usually worth ignoring.
