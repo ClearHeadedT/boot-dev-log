@@ -43,3 +43,4 @@
 - Learned pushing commits to GitHub.
 - Learned pulling changes down from GitHub.
 - Learned opening and merging a pull request.
+- Learned a full personal Git workflow from branch to merged PR.
