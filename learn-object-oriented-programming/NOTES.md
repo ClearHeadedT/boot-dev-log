@@ -10,3 +10,4 @@
 - Learned working with multiple objects/instances of the same class independently.
 - Learned class variables vs. instance variables, shared state vs. per-object state.
 - Learned building a small archer class exercise to practice object attributes and methods.
+- Learned general classes practice, writing a class from scratch end to end.
