@@ -6,3 +6,4 @@
 - Learned Python class basics, init functionality, instances.
 - Learned methods vs. regular functions, how they're tied to an object.
 - Learned methods that return values vs. just mutate state.
+- Learned constructors, setting up default object state on creation.
