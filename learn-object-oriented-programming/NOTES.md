@@ -21,3 +21,4 @@
 - Learned how OOP developers think, designing around behavior/responsibility.
 - Learned abstraction practice, exposing only what callers actually need.
 - Learned inheritance basics, subclasses extending a parent class.
+- Learned when to actually use inheritance vs. when it's overkill.
