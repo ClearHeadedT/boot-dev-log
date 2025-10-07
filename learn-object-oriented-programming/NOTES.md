@@ -18,3 +18,4 @@
 - Learned general encapsulation practice, protecting internal state from outside code.
 - Learned abstraction, hiding implementation details behind a simple interface.
 - Learned the difference between abstraction and encapsulation.
+- Learned how OOP developers think, designing around behavior/responsibility.
