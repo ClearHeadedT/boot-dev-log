@@ -15,3 +15,4 @@
 - Learned Python's underscore convention for signaling private attributes.
 - Learned encapsulation isn't real security, just a convention, not enforcement.
 - Learned a wizard duel exercise, encapsulating health/attack state inside objects.
+- Learned general encapsulation practice, protecting internal state from outside code.
