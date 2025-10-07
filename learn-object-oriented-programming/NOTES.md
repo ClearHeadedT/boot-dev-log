@@ -14,3 +14,4 @@
 - Learned distinguishing when to use a class method vs. a plain function.
 - Learned Python's underscore convention for signaling private attributes.
 - Learned encapsulation isn't real security, just a convention, not enforcement.
+- Learned a wizard duel exercise, encapsulating health/attack state inside objects.
