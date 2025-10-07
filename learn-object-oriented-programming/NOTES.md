@@ -26,3 +26,4 @@
 - Learned handling multiple child classes inheriting from one parent.
 - Learned why wide, shallow inheritance beats deep inheritance chains.
 - Learned a dragons exercise, sharing behavior across dragon subtypes.
+- Learned a dragons-fight exercise, using inherited combat logic between subclasses.
