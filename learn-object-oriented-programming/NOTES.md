@@ -17,3 +17,4 @@
 - Learned a wizard duel exercise, encapsulating health/attack state inside objects.
 - Learned general encapsulation practice, protecting internal state from outside code.
 - Learned abstraction, hiding implementation details behind a simple interface.
+- Learned the difference between abstraction and encapsulation.
