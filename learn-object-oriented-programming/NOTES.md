@@ -23,3 +23,4 @@
 - Learned inheritance basics, subclasses extending a parent class.
 - Learned when to actually use inheritance vs. when it's overkill.
 - Learned building an inheritance hierarchy across multiple levels.
+- Learned handling multiple child classes inheriting from one parent.
