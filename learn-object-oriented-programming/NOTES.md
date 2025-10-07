@@ -16,3 +16,4 @@
 - Learned encapsulation isn't real security, just a convention, not enforcement.
 - Learned a wizard duel exercise, encapsulating health/attack state inside objects.
 - Learned general encapsulation practice, protecting internal state from outside code.
+- Learned abstraction, hiding implementation details behind a simple interface.
