@@ -19,3 +19,4 @@
 - Learned abstraction, hiding implementation details behind a simple interface.
 - Learned the difference between abstraction and encapsulation.
 - Learned how OOP developers think, designing around behavior/responsibility.
+- Learned abstraction practice, exposing only what callers actually need.
