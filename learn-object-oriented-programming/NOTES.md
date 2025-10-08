@@ -29,3 +29,4 @@
 - Learned a dragons-fight exercise, using inherited combat logic between subclasses.
 - Learned general inheritance practice, extending and overriding parent behavior.
 - Learned polymorphism, different classes implementing the same method name differently.
+- Learned a shape-edges exercise, calling the same method across different shape classes.
