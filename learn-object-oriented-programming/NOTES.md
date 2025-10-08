@@ -31,3 +31,4 @@
 - Learned polymorphism, different classes implementing the same method name differently.
 - Learned a shape-edges exercise, calling the same method across different shape classes.
 - Learned checking for overlap between different object types polymorphically.
+- Learned calculating area across different dragon/shape subclasses using shared method names.
