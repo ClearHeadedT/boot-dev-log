@@ -33,3 +33,4 @@
 - Learned checking for overlap between different object types polymorphically.
 - Learned calculating area across different dragon/shape subclasses using shared method names.
 - Learned operator overloading, supporting + and == on custom objects.
+- Learned overriding built-in dunder methods like __str__ to control object printing.
