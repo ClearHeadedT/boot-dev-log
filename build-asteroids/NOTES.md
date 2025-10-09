@@ -6,3 +6,4 @@
 - Learned spawning asteroids at random positions and velocities.
 - Learned circle-based collision detection between the ship and asteroids.
 - Learned shooting projectiles from the player ship.
+- Learned collision detection between shots and asteroids.
