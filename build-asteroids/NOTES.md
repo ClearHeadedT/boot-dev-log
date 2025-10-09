@@ -7,3 +7,4 @@
 - Learned circle-based collision detection between the ship and asteroids.
 - Learned shooting projectiles from the player ship.
 - Learned collision detection between shots and asteroids.
+- Learned splitting a large asteroid into smaller ones when hit.
