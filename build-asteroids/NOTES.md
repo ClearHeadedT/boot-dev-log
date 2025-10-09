@@ -9,3 +9,4 @@
 - Learned collision detection between shots and asteroids.
 - Learned splitting a large asteroid into smaller ones when hit.
 - Learned using Pygame sprite groups to manage game objects.
+- Learned screen wrapping so objects loop around the edges.
