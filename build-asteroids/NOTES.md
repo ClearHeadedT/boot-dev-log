@@ -12,3 +12,4 @@
 - Learned screen wrapping so objects loop around the edges.
 - Learned handling player death and game-over state.
 - Learned structuring the game into multiple classes (Player, Asteroid, Shot).
+- Learned putting the whole Asteroids game loop together end to end.
