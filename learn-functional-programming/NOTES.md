@@ -21,3 +21,4 @@
 - Learned memoization for caching pure function results.
 - Learned referential transparency as a core FP concept.
 - Learned no-op functions and their purpose.
+- Learned general pure-functions practice across a few exercises.
