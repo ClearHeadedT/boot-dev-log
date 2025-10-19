@@ -7,3 +7,4 @@
 - Learned comparing classes vs. plain functions for the same problem.
 - Learned debugging functional-style code.
 - Learned functional vs. OOP tradeoffs directly.
+- Learned statements vs. expressions, and ternary expressions.
