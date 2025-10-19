@@ -4,3 +4,4 @@
 - Learned immutability, avoiding mutating shared state.
 - Learned declarative vs. imperative programming styles.
 - Learned the mathematical roots of functional programming.
+- Learned comparing classes vs. plain functions for the same problem.
