@@ -18,3 +18,4 @@
 - Learned reference vs. value semantics in Python.
 - Learned how passing by reference can introduce impurity.
 - Learned separating I/O from pure logic.
+- Learned memoization for caching pure function results.
