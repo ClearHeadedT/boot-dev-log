@@ -8,3 +8,4 @@
 - Learned debugging functional-style code.
 - Learned functional vs. OOP tradeoffs directly.
 - Learned statements vs. expressions, and ternary expressions.
+- Learned treating functions as values you can pass around.
