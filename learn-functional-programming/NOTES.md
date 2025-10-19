@@ -13,3 +13,4 @@
 - Learned first-class and higher-order functions.
 - Learned map() for transforming a sequence.
 - Learned filter() for selecting items from a sequence.
+- Learned reduce() for folding a sequence into a single value.
