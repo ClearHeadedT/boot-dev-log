@@ -22,3 +22,4 @@
 - Learned referential transparency as a core FP concept.
 - Learned no-op functions and their purpose.
 - Learned general pure-functions practice across a few exercises.
+- Learned recursion, functions calling themselves.
