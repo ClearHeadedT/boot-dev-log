@@ -20,3 +20,4 @@
 - Learned separating I/O from pure logic.
 - Learned memoization for caching pure function results.
 - Learned referential transparency as a core FP concept.
+- Learned no-op functions and their purpose.
