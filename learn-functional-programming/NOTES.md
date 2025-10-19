@@ -11,3 +11,4 @@
 - Learned treating functions as values you can pass around.
 - Learned writing anonymous (lambda) functions.
 - Learned first-class and higher-order functions.
+- Learned map() for transforming a sequence.
