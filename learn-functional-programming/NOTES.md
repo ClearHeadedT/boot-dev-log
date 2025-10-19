@@ -12,3 +12,4 @@
 - Learned writing anonymous (lambda) functions.
 - Learned first-class and higher-order functions.
 - Learned map() for transforming a sequence.
+- Learned filter() for selecting items from a sequence.
