@@ -24,3 +24,4 @@
 - Learned general pure-functions practice across a few exercises.
 - Learned recursion, functions calling themselves.
 - Learned base cases and how recursion terminates.
+- Learned recursive summing over nested data.
