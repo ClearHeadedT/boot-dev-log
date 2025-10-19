@@ -25,3 +25,4 @@
 - Learned recursion, functions calling themselves.
 - Learned base cases and how recursion terminates.
 - Learned recursive summing over nested data.
+- Learned recursion over tree-shaped data.
