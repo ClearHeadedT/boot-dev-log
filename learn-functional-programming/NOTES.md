@@ -6,3 +6,4 @@
 - Learned the mathematical roots of functional programming.
 - Learned comparing classes vs. plain functions for the same problem.
 - Learned debugging functional-style code.
+- Learned functional vs. OOP tradeoffs directly.
