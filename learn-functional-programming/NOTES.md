@@ -15,3 +15,4 @@
 - Learned filter() for selecting items from a sequence.
 - Learned reduce() for folding a sequence into a single value.
 - Learned pure functions, no side effects, same output for same input.
+- Learned reference vs. value semantics in Python.
