@@ -26,3 +26,4 @@
 - Learned base cases and how recursion terminates.
 - Learned recursive summing over nested data.
 - Learned recursion over tree-shaped data.
+- Learned the dangers of recursion (stack depth, infinite recursion).
