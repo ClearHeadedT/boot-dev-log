@@ -28,3 +28,4 @@
 - Learned recursion over tree-shaped data.
 - Learned the dangers of recursion (stack depth, infinite recursion).
 - Learned implementing zipmap recursively.
+- Learned general recursion practice across a few exercises.
