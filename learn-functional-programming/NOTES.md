@@ -31,3 +31,4 @@
 - Learned general recursion practice across a few exercises.
 - Learned transforming functions into new functions.
 - Learned why you'd want to transform a function instead of rewriting it.
+- Learned reviewing several function-transformation patterns.
