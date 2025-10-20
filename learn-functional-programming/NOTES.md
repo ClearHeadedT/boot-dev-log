@@ -32,3 +32,4 @@
 - Learned transforming functions into new functions.
 - Learned why you'd want to transform a function instead of rewriting it.
 - Learned reviewing several function-transformation patterns.
+- Learned general function-transformation practice.
