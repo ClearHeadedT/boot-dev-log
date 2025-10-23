@@ -44,3 +44,4 @@
 - Learned args and kwargs for flexible function signatures.
 - Learned building an LRU cache decorator.
 - Learned reviewing decorator syntax and use cases.
+- Learned general decorators practice across a few exercises.
