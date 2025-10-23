@@ -46,3 +46,4 @@
 - Learned reviewing decorator syntax and use cases.
 - Learned general decorators practice across a few exercises.
 - Learned sum types and union types for modeling multiple possible shapes.
+- Learned enums for representing a fixed set of options.
