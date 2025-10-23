@@ -37,3 +37,4 @@
 - Learned reviewing closure behavior with a few examples.
 - Learned general closures practice.
 - Learned currying, breaking a multi-arg function into single-arg steps.
+- Learned why currying is useful for building reusable partial functions.
