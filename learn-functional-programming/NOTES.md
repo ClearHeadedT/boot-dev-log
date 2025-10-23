@@ -40,3 +40,4 @@
 - Learned why currying is useful for building reusable partial functions.
 - Learned general currying practice across a few exercises.
 - Learned more currying practice, chaining curried calls.
+- Learned Python decorators for wrapping function behavior.
