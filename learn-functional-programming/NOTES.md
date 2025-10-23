@@ -36,3 +36,4 @@
 - Learned closures, functions that capture variables from their enclosing scope.
 - Learned reviewing closure behavior with a few examples.
 - Learned general closures practice.
+- Learned currying, breaking a multi-arg function into single-arg steps.
