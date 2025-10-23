@@ -39,3 +39,4 @@
 - Learned currying, breaking a multi-arg function into single-arg steps.
 - Learned why currying is useful for building reusable partial functions.
 - Learned general currying practice across a few exercises.
+- Learned more currying practice, chaining curried calls.
