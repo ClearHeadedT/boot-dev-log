@@ -48,3 +48,4 @@
 - Learned sum types and union types for modeling multiple possible shapes.
 - Learned enums for representing a fixed set of options.
 - Learned Python's match statement for pattern matching.
+- Learned general sum-types practice across a few exercises.
