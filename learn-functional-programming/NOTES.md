@@ -43,3 +43,4 @@
 - Learned Python decorators for wrapping function behavior.
 - Learned args and kwargs for flexible function signatures.
 - Learned building an LRU cache decorator.
+- Learned reviewing decorator syntax and use cases.
