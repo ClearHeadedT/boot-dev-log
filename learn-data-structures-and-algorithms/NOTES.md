@@ -4,3 +4,4 @@
 - Learned a find-minimum exercise, scanning a list for the smallest value.
 - Learned a few simple algorithms to warm up before Big O.
 - Learned exponents and how exponential growth behaves.
+- Learned logarithms and their relationship to exponents.
