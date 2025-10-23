@@ -42,3 +42,4 @@
 - Learned more currying practice, chaining curried calls.
 - Learned Python decorators for wrapping function behavior.
 - Learned args and kwargs for flexible function signatures.
+- Learned building an LRU cache decorator.
