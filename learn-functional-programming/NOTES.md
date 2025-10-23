@@ -34,3 +34,4 @@
 - Learned reviewing several function-transformation patterns.
 - Learned general function-transformation practice.
 - Learned closures, functions that capture variables from their enclosing scope.
+- Learned reviewing closure behavior with a few examples.
