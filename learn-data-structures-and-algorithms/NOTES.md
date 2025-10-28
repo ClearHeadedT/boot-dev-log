@@ -9,3 +9,4 @@
 - Learned exponential decay.
 - Learned reading values on a logarithmic scale.
 - Learned computing mean and median of a dataset.
+- Learned non-linear growth rates in general.
