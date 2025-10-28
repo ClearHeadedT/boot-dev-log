@@ -8,3 +8,4 @@
 - Learned factorials and how quickly they grow.
 - Learned exponential decay.
 - Learned reading values on a logarithmic scale.
+- Learned computing mean and median of a dataset.
