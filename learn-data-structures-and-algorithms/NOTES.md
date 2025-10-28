@@ -7,3 +7,4 @@
 - Learned logarithms and their relationship to exponents.
 - Learned factorials and how quickly they grow.
 - Learned exponential decay.
+- Learned reading values on a logarithmic scale.
