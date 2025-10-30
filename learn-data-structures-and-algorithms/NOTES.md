@@ -14,3 +14,4 @@
 - Learned Big O notation for describing algorithm complexity.
 - Learned O(n) linear time complexity.
 - Learned O(n^2) quadratic time complexity.
+- Learned O(nm) complexity for nested loops over different inputs.
