@@ -18,3 +18,4 @@
 - Learned why constant factors don't matter in Big O.
 - Learned O(1) constant time and O(log n) logarithmic time.
 - Learned counting unique names as a Big O practice problem.
+- Learned bubble sort and its O(n^2) complexity.
