@@ -13,3 +13,4 @@
 - Learned reviewing exponent/logarithm math with a few quizzes.
 - Learned Big O notation for describing algorithm complexity.
 - Learned O(n) linear time complexity.
+- Learned O(n^2) quadratic time complexity.
