@@ -12,3 +12,4 @@
 - Learned non-linear growth rates in general.
 - Learned reviewing exponent/logarithm math with a few quizzes.
 - Learned Big O notation for describing algorithm complexity.
+- Learned O(n) linear time complexity.
