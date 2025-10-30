@@ -15,3 +15,4 @@
 - Learned O(n) linear time complexity.
 - Learned O(n^2) quadratic time complexity.
 - Learned O(nm) complexity for nested loops over different inputs.
+- Learned why constant factors don't matter in Big O.
