@@ -20,3 +20,4 @@
 - Learned counting unique names as a Big O practice problem.
 - Learned bubble sort and its O(n^2) complexity.
 - Learned why bubble sort is rarely used in practice.
+- Learned merge sort and its O(n log n) complexity.
