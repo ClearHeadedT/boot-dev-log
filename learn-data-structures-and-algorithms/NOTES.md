@@ -23,3 +23,4 @@
 - Learned merge sort and its O(n log n) complexity.
 - Learned why merge sort scales better than simpler sorts.
 - Learned insertion sort and when it's actually a good choice.
+- Learned quick sort and its average-case complexity.
