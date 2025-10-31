@@ -24,3 +24,4 @@
 - Learned why merge sort scales better than simpler sorts.
 - Learned insertion sort and when it's actually a good choice.
 - Learned quick sort and its average-case complexity.
+- Learned fixing a buggy quick sort partition implementation.
