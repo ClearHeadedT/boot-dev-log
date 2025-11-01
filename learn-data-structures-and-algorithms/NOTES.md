@@ -26,3 +26,4 @@
 - Learned quick sort and its average-case complexity.
 - Learned fixing a buggy quick sort partition implementation.
 - Learned why quick sort is often preferred despite worst-case O(n^2).
+- Learned selection sort.
