@@ -28,3 +28,4 @@
 - Learned why quick sort is often preferred despite worst-case O(n^2).
 - Learned selection sort.
 - Learned comparing all the sorting algorithms covered so far.
+- Learned implementing at least one sort from scratch end to end.
