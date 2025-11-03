@@ -32,3 +32,4 @@
 - Learned the difference between polynomial and exponential time.
 - Learned what it means for a problem to be solvable in polynomial time (P).
 - Learned reducing one problem to another to reason about its complexity.
+- Learned O(k^n) exponential complexity.
