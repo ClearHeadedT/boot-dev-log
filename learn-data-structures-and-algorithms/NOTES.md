@@ -33,3 +33,4 @@
 - Learned what it means for a problem to be solvable in polynomial time (P).
 - Learned reducing one problem to another to reason about its complexity.
 - Learned O(k^n) exponential complexity.
+- Learned reviewing the full set of Big O categories together.
