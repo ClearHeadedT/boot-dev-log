@@ -34,3 +34,4 @@
 - Learned reducing one problem to another to reason about its complexity.
 - Learned O(k^n) exponential complexity.
 - Learned reviewing the full set of Big O categories together.
+- Learned working through complexity-analysis quiz problems.
