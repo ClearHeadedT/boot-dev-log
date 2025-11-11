@@ -35,3 +35,4 @@
 - Learned O(k^n) exponential complexity.
 - Learned reviewing the full set of Big O categories together.
 - Learned working through complexity-analysis quiz problems.
+- Learned recognizing exponential growth sequences.
