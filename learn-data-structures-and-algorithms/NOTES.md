@@ -36,3 +36,4 @@
 - Learned reviewing the full set of Big O categories together.
 - Learned working through complexity-analysis quiz problems.
 - Learned recognizing exponential growth sequences.
+- Learned what a data structure actually is and why the choice matters.
