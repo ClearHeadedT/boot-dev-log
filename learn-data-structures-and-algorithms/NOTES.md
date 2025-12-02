@@ -40,3 +40,4 @@
 - Learned lists as the most basic data structure.
 - Learned reviewing list behavior with a quick quiz.
 - Learned stacks, last-in-first-out ordering.
+- Learned stack push/pop/peek operations.
