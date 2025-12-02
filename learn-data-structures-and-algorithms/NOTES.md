@@ -45,3 +45,4 @@
 - Learned using a stack to solve a real practice problem.
 - Learned queues, first-in-first-out ordering.
 - Learned implementing a queue class from scratch.
+- Learned queue operation speed and a matchmaking-queue exercise.
