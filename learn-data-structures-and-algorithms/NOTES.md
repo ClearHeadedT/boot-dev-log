@@ -43,3 +43,4 @@
 - Learned stack push/pop/peek operations.
 - Learned the time complexity of stack operations.
 - Learned using a stack to solve a real practice problem.
+- Learned queues, first-in-first-out ordering.
