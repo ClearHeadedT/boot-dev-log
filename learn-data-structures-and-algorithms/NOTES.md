@@ -39,3 +39,4 @@
 - Learned what a data structure actually is and why the choice matters.
 - Learned lists as the most basic data structure.
 - Learned reviewing list behavior with a quick quiz.
+- Learned stacks, last-in-first-out ordering.
