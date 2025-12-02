@@ -41,3 +41,4 @@
 - Learned reviewing list behavior with a quick quiz.
 - Learned stacks, last-in-first-out ordering.
 - Learned stack push/pop/peek operations.
+- Learned the time complexity of stack operations.
