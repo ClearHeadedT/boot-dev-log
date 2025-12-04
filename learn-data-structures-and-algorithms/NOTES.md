@@ -67,3 +67,4 @@
 - Learned fixing tree balance after an insert operation.
 - Learned hashmaps and hash functions.
 - Learned implementing insert and get for a hashmap.
+- Learned resizing a hashmap as it grows.
