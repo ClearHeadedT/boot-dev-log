@@ -54,3 +54,4 @@
 - Learned reviewing linked list queue behavior with a quiz.
 - Learned trees in general and binary trees specifically.
 - Learned inserting nodes into a binary tree.
+- Learned finding min and max values in a binary tree.
