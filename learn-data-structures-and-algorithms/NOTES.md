@@ -63,3 +63,4 @@
 - Learned computing the height of a binary tree.
 - Learned why unbalanced trees degrade to linear time.
 - Learned red-black trees and their balancing rules.
+- Learned tree rotation to rebalance after insertion.
