@@ -61,3 +61,4 @@
 - Learned inorder tree traversal.
 - Learned checking whether a node exists in a tree.
 - Learned computing the height of a binary tree.
+- Learned why unbalanced trees degrade to linear time.
