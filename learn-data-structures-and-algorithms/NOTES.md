@@ -58,3 +58,4 @@
 - Learned deleting a node from a binary tree.
 - Learned preorder tree traversal.
 - Learned postorder tree traversal.
+- Learned inorder tree traversal.
