@@ -57,3 +57,4 @@
 - Learned finding min and max values in a binary tree.
 - Learned deleting a node from a binary tree.
 - Learned preorder tree traversal.
+- Learned postorder tree traversal.
