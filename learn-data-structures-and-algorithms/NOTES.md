@@ -66,3 +66,4 @@
 - Learned tree rotation to rebalance after insertion.
 - Learned fixing tree balance after an insert operation.
 - Learned hashmaps and hash functions.
+- Learned implementing insert and get for a hashmap.
