@@ -65,3 +65,4 @@
 - Learned red-black trees and their balancing rules.
 - Learned tree rotation to rebalance after insertion.
 - Learned fixing tree balance after an insert operation.
+- Learned hashmaps and hash functions.
