@@ -47,3 +47,4 @@
 - Learned implementing a queue class from scratch.
 - Learned queue operation speed and a matchmaking-queue exercise.
 - Learned linked lists vs. arrays/lists, tradeoffs between them.
+- Learned iterating through a linked list node by node.
