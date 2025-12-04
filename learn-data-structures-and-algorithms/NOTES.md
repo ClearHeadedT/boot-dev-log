@@ -59,3 +59,4 @@
 - Learned preorder tree traversal.
 - Learned postorder tree traversal.
 - Learned inorder tree traversal.
+- Learned checking whether a node exists in a tree.
