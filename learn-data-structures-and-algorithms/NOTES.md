@@ -50,3 +50,4 @@
 - Learned iterating through a linked list node by node.
 - Learned adding nodes to the head and tail of a linked list.
 - Learned removing a node from the head of a linked list.
+- Learned implementing a queue backed by a linked list.
