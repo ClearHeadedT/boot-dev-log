@@ -70,3 +70,4 @@
 - Learned resizing a hashmap as it grows.
 - Learned linear probing for handling hash collisions.
 - Learned reviewing hashmap performance characteristics.
+- Learned tries for efficient prefix-based lookups.
