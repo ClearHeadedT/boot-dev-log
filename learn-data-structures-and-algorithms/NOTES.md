@@ -76,3 +76,4 @@
 - Learned finding all words with a given prefix.
 - Learned finding the longest common prefix across words.
 - Learned more advanced trie-based matching problems.
+- Learned graphs, nodes and edges.
