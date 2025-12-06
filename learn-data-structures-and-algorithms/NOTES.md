@@ -78,3 +78,4 @@
 - Learned more advanced trie-based matching problems.
 - Learned graphs, nodes and edges.
 - Learned representing graphs with an adjacency list.
+- Learned finding a node's adjacent nodes.
