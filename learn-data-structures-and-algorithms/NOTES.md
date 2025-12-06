@@ -73,3 +73,4 @@
 - Learned tries for efficient prefix-based lookups.
 - Learned checking whether a word exists in a trie.
 - Learned prefix matching with a trie.
+- Learned finding all words with a given prefix.
