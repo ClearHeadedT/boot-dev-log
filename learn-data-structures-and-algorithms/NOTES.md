@@ -74,3 +74,4 @@
 - Learned checking whether a word exists in a trie.
 - Learned prefix matching with a trie.
 - Learned finding all words with a given prefix.
+- Learned finding the longest common prefix across words.
