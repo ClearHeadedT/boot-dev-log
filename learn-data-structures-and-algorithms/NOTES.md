@@ -80,3 +80,4 @@
 - Learned representing graphs with an adjacency list.
 - Learned finding a node's adjacent nodes.
 - Learned identifying unconnected vertices in a graph.
+- Learned breadth-first search (BFS) traversal.
