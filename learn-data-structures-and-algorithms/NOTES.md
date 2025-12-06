@@ -81,3 +81,4 @@
 - Learned finding a node's adjacent nodes.
 - Learned identifying unconnected vertices in a graph.
 - Learned breadth-first search (BFS) traversal.
+- Learned depth-first search (DFS) traversal.
