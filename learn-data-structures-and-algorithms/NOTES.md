@@ -84,3 +84,4 @@
 - Learned depth-first search (DFS) traversal.
 - Learned when to use BFS vs. DFS depending on the problem.
 - Learned NP and what makes a problem 'hard' to solve.
+- Learned the traveling salesman problem as a classic NP-hard example.
