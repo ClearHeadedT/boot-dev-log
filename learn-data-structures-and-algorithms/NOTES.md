@@ -85,3 +85,4 @@
 - Learned when to use BFS vs. DFS depending on the problem.
 - Learned NP and what makes a problem 'hard' to solve.
 - Learned the traveling salesman problem as a classic NP-hard example.
+- Learned verifying a proposed TSP solution efficiently even if solving isn't easy.
