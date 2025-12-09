@@ -82,3 +82,4 @@
 - Learned identifying unconnected vertices in a graph.
 - Learned breadth-first search (BFS) traversal.
 - Learned depth-first search (DFS) traversal.
+- Learned when to use BFS vs. DFS depending on the problem.
