@@ -17,3 +17,4 @@
 - Learned primary keys for uniquely identifying rows.
 - Learned foreign keys for linking rows across tables.
 - Learned relational vs. non-relational database design.
+- Learned CRUD, the four core database operations.
