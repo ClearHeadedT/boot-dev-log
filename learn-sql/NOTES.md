@@ -13,3 +13,4 @@
 - Learned a posts-table practice exercise, designing a real schema.
 - Learned writing the migration for a posts table end to end.
 - Learned handling NULL values in a table.
+- Learned table constraints in general.
