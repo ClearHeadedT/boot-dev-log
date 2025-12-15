@@ -5,3 +5,4 @@
 - Learned comparing SQL vs. NoSQL databases.
 - Learned comparing different SQL database engines.
 - Learned the general purpose of a query language for relational data.
+- Learned creating tables with CREATE TABLE.
