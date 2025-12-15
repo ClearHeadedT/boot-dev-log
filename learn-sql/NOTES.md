@@ -19,3 +19,4 @@
 - Learned relational vs. non-relational database design.
 - Learned CRUD, the four core database operations.
 - Learned INSERT statements for adding rows.
+- Learned auto-increment primary keys.
