@@ -90,3 +90,4 @@
 - Learned verifying solutions to NP problems in polynomial time.
 - Learned the open question of whether P equals NP.
 - Learned NP-hard problems and how they relate to NP-complete.
+- Learned prime factorization as a hard computational problem.
