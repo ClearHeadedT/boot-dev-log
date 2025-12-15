@@ -88,3 +88,4 @@
 - Learned verifying a proposed TSP solution efficiently even if solving isn't easy.
 - Learned NP-complete problems and what defines that class.
 - Learned verifying solutions to NP problems in polynomial time.
+- Learned the open question of whether P equals NP.
