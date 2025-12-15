@@ -14,3 +14,4 @@
 - Learned writing the migration for a posts table end to end.
 - Learned handling NULL values in a table.
 - Learned table constraints in general.
+- Learned primary keys for uniquely identifying rows.
