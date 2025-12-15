@@ -91,3 +91,4 @@
 - Learned the open question of whether P equals NP.
 - Learned NP-hard problems and how they relate to NP-complete.
 - Learned prime factorization as a hard computational problem.
+- Learned the subset sum problem as another NP-complete example.
