@@ -18,3 +18,4 @@
 - Learned foreign keys for linking rows across tables.
 - Learned relational vs. non-relational database design.
 - Learned CRUD, the four core database operations.
+- Learned INSERT statements for adding rows.
