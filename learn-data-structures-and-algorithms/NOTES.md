@@ -89,3 +89,4 @@
 - Learned NP-complete problems and what defines that class.
 - Learned verifying solutions to NP problems in polynomial time.
 - Learned the open question of whether P equals NP.
+- Learned NP-hard problems and how they relate to NP-complete.
