@@ -10,3 +10,4 @@
 - Learned database migrations, up and down.
 - Learned reviewing migration history and rollback behavior.
 - Learned SQL data types for column definitions.
+- Learned a posts-table practice exercise, designing a real schema.
