@@ -7,3 +7,4 @@
 - Learned the general purpose of a query language for relational data.
 - Learned creating tables with CREATE TABLE.
 - Learned altering an existing table's structure.
+- Learned database migrations, up and down.
