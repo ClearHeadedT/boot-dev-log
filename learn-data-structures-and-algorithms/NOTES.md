@@ -86,3 +86,4 @@
 - Learned NP and what makes a problem 'hard' to solve.
 - Learned the traveling salesman problem as a classic NP-hard example.
 - Learned verifying a proposed TSP solution efficiently even if solving isn't easy.
+- Learned NP-complete problems and what defines that class.
