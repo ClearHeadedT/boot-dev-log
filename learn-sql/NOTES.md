@@ -21,3 +21,4 @@
 - Learned INSERT statements for adding rows.
 - Learned auto-increment primary keys.
 - Learned COUNT for counting rows.
+- Learned the WHERE clause for filtering rows.
