@@ -16,3 +16,4 @@
 - Learned table constraints in general.
 - Learned primary keys for uniquely identifying rows.
 - Learned foreign keys for linking rows across tables.
+- Learned relational vs. non-relational database design.
