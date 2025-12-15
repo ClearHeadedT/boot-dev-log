@@ -6,3 +6,4 @@
 - Learned comparing different SQL database engines.
 - Learned the general purpose of a query language for relational data.
 - Learned creating tables with CREATE TABLE.
+- Learned altering an existing table's structure.
