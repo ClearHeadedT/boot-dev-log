@@ -4,3 +4,4 @@
 - Learned basic SELECT statements for single and multiple columns.
 - Learned comparing SQL vs. NoSQL databases.
 - Learned comparing different SQL database engines.
+- Learned the general purpose of a query language for relational data.
