@@ -8,3 +8,4 @@
 - Learned creating tables with CREATE TABLE.
 - Learned altering an existing table's structure.
 - Learned database migrations, up and down.
+- Learned reviewing migration history and rollback behavior.
