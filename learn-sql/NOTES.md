@@ -15,3 +15,4 @@
 - Learned handling NULL values in a table.
 - Learned table constraints in general.
 - Learned primary keys for uniquely identifying rows.
+- Learned foreign keys for linking rows across tables.
