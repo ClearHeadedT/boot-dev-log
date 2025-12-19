@@ -25,3 +25,4 @@
 - Learned finding rows with NULL values specifically.
 - Learned DELETE statements and the danger of deleting without a WHERE clause.
 - Learned UPDATE statements for modifying existing rows.
+- Learned ORMs and how they map objects to database rows.
