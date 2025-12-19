@@ -23,3 +23,4 @@
 - Learned COUNT for counting rows.
 - Learned the WHERE clause for filtering rows.
 - Learned finding rows with NULL values specifically.
+- Learned DELETE statements and the danger of deleting without a WHERE clause.
