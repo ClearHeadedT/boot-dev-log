@@ -22,3 +22,4 @@
 - Learned auto-increment primary keys.
 - Learned COUNT for counting rows.
 - Learned the WHERE clause for filtering rows.
+- Learned finding rows with NULL values specifically.
