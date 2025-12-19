@@ -27,3 +27,4 @@
 - Learned UPDATE statements for modifying existing rows.
 - Learned ORMs and how they map objects to database rows.
 - Learned a user-count query practice exercise.
+- Learned a country-codes query practice exercise.
