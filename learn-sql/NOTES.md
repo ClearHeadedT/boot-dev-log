@@ -41,3 +41,4 @@
 - Learned combining ORDER BY and LIMIT together.
 - Learned a security-breach query practice exercise.
 - Learned aggregation functions in general.
+- Learned SUM, MAX, and MIN aggregations.
