@@ -31,3 +31,4 @@
 - Learned the AS clause for aliasing columns.
 - Learned built-in SQL functions.
 - Learned BETWEEN for range filtering.
+- Learned DISTINCT for removing duplicate rows.
