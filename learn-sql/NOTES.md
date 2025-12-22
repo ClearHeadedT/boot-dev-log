@@ -30,3 +30,4 @@
 - Learned a country-codes query practice exercise.
 - Learned the AS clause for aliasing columns.
 - Learned built-in SQL functions.
+- Learned BETWEEN for range filtering.
