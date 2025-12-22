@@ -43,3 +43,4 @@
 - Learned aggregation functions in general.
 - Learned SUM, MAX, and MIN aggregations.
 - Learned GROUP BY for aggregating rows into groups.
+- Learned AVG for computing averages.
