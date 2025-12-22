@@ -35,3 +35,4 @@
 - Learned combining conditions with AND/OR.
 - Learned IN for matching against a list of values.
 - Learned LIKE and wildcard pattern matching.
+- Learned a discount-program query practice exercise.
