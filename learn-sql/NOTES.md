@@ -44,3 +44,4 @@
 - Learned SUM, MAX, and MIN aggregations.
 - Learned GROUP BY for aggregating rows into groups.
 - Learned AVG for computing averages.
+- Learned HAVING for filtering aggregated groups.
