@@ -40,3 +40,4 @@
 - Learned ORDER BY for sorting query results.
 - Learned combining ORDER BY and LIMIT together.
 - Learned a security-breach query practice exercise.
+- Learned aggregation functions in general.
