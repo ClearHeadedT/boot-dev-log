@@ -33,3 +33,4 @@
 - Learned BETWEEN for range filtering.
 - Learned DISTINCT for removing duplicate rows.
 - Learned combining conditions with AND/OR.
+- Learned IN for matching against a list of values.
