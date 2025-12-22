@@ -39,3 +39,4 @@
 - Learned LIMIT for capping the number of returned rows.
 - Learned ORDER BY for sorting query results.
 - Learned combining ORDER BY and LIMIT together.
+- Learned a security-breach query practice exercise.
