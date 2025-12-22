@@ -42,3 +42,4 @@
 - Learned a security-breach query practice exercise.
 - Learned aggregation functions in general.
 - Learned SUM, MAX, and MIN aggregations.
+- Learned GROUP BY for aggregating rows into groups.
