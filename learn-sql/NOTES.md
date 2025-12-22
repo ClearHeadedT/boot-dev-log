@@ -28,3 +28,4 @@
 - Learned ORMs and how they map objects to database rows.
 - Learned a user-count query practice exercise.
 - Learned a country-codes query practice exercise.
+- Learned the AS clause for aliasing columns.
