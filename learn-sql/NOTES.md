@@ -51,3 +51,4 @@
 - Learned an invoice-subquery practice exercise.
 - Learned a no-tables query exercise, computing values without a table.
 - Learned reviewing subquery syntax with a quiz.
+- Learned table relationships, one-to-many and many-to-many.
