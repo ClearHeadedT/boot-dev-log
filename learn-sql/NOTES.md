@@ -64,3 +64,4 @@
 - Learned LEFT JOIN.
 - Learned RIGHT JOIN.
 - Learned FULL JOIN.
+- Learned general join practice across a few exercises.
