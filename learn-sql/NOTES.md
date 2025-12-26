@@ -58,3 +58,4 @@
 - Learned Second Normal Form (2NF).
 - Learned Third Normal Form (3NF).
 - Learned Boyce-Codd Normal Form (BCNF).
+- Learned a users-and-banks query practice exercise applying normalization.
