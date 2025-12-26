@@ -47,3 +47,4 @@
 - Learned HAVING for filtering aggregated groups.
 - Learned the difference between HAVING and WHERE.
 - Learned an average-ages query practice exercise.
+- Learned writing subqueries nested inside another query.
