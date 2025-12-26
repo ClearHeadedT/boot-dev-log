@@ -62,3 +62,4 @@
 - Learned SQL joins in general.
 - Learned namespacing columns across joined tables.
 - Learned LEFT JOIN.
+- Learned RIGHT JOIN.
