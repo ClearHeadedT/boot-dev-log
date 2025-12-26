@@ -49,3 +49,4 @@
 - Learned an average-ages query practice exercise.
 - Learned writing subqueries nested inside another query.
 - Learned an invoice-subquery practice exercise.
+- Learned a no-tables query exercise, computing values without a table.
