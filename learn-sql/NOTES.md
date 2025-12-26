@@ -45,3 +45,4 @@
 - Learned GROUP BY for aggregating rows into groups.
 - Learned AVG for computing averages.
 - Learned HAVING for filtering aggregated groups.
+- Learned the difference between HAVING and WHERE.
