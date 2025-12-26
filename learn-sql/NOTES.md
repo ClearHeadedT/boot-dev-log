@@ -56,3 +56,4 @@
 - Learned normal forms as a concept.
 - Learned First Normal Form (1NF).
 - Learned Second Normal Form (2NF).
+- Learned Third Normal Form (3NF).
