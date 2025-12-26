@@ -53,3 +53,4 @@
 - Learned reviewing subquery syntax with a quiz.
 - Learned table relationships, one-to-many and many-to-many.
 - Learned database normalization in general.
+- Learned normal forms as a concept.
