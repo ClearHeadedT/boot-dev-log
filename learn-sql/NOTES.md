@@ -61,3 +61,4 @@
 - Learned a users-and-banks query practice exercise applying normalization.
 - Learned SQL joins in general.
 - Learned namespacing columns across joined tables.
+- Learned LEFT JOIN.
