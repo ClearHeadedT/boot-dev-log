@@ -57,3 +57,4 @@
 - Learned First Normal Form (1NF).
 - Learned Second Normal Form (2NF).
 - Learned Third Normal Form (3NF).
+- Learned Boyce-Codd Normal Form (BCNF).
