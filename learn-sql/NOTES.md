@@ -63,3 +63,4 @@
 - Learned namespacing columns across joined tables.
 - Learned LEFT JOIN.
 - Learned RIGHT JOIN.
+- Learned FULL JOIN.
