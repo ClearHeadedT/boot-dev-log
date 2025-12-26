@@ -46,3 +46,4 @@
 - Learned AVG for computing averages.
 - Learned HAVING for filtering aggregated groups.
 - Learned the difference between HAVING and WHERE.
+- Learned an average-ages query practice exercise.
