@@ -67,3 +67,4 @@
 - Learned general join practice across a few exercises.
 - Learned a support-tickets query practice exercise using joins.
 - Learned SQL indexes for speeding up queries.
+- Learned multi-column indexes.
