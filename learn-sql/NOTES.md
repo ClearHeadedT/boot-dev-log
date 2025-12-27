@@ -65,3 +65,4 @@
 - Learned RIGHT JOIN.
 - Learned FULL JOIN.
 - Learned general join practice across a few exercises.
+- Learned a support-tickets query practice exercise using joins.
