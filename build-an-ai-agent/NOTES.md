@@ -8,3 +8,4 @@
 - Learned building a function to execute a Python file and capture its output.
 - Learned building an agent loop that repeatedly calls the LLM until a task is done.
 - Learned handling and returning function-call results back to the LLM.
+- Learned sandboxing file operations to a working directory for safety.
