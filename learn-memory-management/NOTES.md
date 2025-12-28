@@ -6,3 +6,4 @@
 - Learned working with strings in C.
 - Learned printing variables with printf format specifiers.
 - Learned declaring and initializing variables in C.
+- Learned constants in C.
