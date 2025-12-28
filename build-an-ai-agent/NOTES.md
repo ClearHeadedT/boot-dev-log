@@ -6,3 +6,4 @@
 - Learned building a function to read a file's contents for the agent.
 - Learned building a function to write/overwrite file contents from the agent.
 - Learned building a function to execute a Python file and capture its output.
+- Learned building an agent loop that repeatedly calls the LLM until a task is done.
