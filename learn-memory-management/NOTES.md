@@ -5,3 +5,4 @@
 - Learned C's basic types (int, float, char, etc.).
 - Learned working with strings in C.
 - Learned printing variables with printf format specifiers.
+- Learned declaring and initializing variables in C.
