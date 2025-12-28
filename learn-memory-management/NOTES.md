@@ -7,3 +7,4 @@
 - Learned printing variables with printf format specifiers.
 - Learned declaring and initializing variables in C.
 - Learned constants in C.
+- Learned defining and calling functions in C.
