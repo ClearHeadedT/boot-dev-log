@@ -10,3 +10,4 @@
 - Learned defining and calling functions in C.
 - Learned void return types and void functions.
 - Learned writing unit tests for C code.
+- Learned C's math operators.
