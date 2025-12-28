@@ -68,3 +68,4 @@
 - Learned a support-tickets query practice exercise using joins.
 - Learned SQL indexes for speeding up queries.
 - Learned multi-column indexes.
+- Learned denormalizing a schema for read performance.
