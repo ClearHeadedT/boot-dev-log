@@ -12,3 +12,4 @@
 - Learned writing unit tests for C code.
 - Learned C's math operators.
 - Learned if statements and conditionals in C.
+- Learned logical operators in C.
