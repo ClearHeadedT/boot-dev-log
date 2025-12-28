@@ -69,3 +69,4 @@
 - Learned SQL indexes for speeding up queries.
 - Learned multi-column indexes.
 - Learned denormalizing a schema for read performance.
+- Learned SQL injection and why parameterized queries matter.
