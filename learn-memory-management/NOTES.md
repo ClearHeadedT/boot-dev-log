@@ -11,3 +11,4 @@
 - Learned void return types and void functions.
 - Learned writing unit tests for C code.
 - Learned C's math operators.
+- Learned if statements and conditionals in C.
