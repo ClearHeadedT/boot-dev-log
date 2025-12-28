@@ -13,3 +13,4 @@
 - Learned C's math operators.
 - Learned if statements and conditionals in C.
 - Learned logical operators in C.
+- Learned the ternary operator in C.
