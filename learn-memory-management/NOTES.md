@@ -20,3 +20,4 @@
 - Learned while loops in C.
 - Learned do-while loops in C.
 - Learned pragma once and header guards to prevent duplicate includes.
+- Learned the compilation process, from source to executable.
