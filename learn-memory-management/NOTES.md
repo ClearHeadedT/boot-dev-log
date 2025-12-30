@@ -14,3 +14,4 @@
 - Learned if statements and conditionals in C.
 - Learned logical operators in C.
 - Learned the ternary operator in C.
+- Learned type sizes and how C represents different types in memory.
