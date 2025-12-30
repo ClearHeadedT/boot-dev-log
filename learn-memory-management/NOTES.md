@@ -23,3 +23,4 @@
 - Learned the compilation process, from source to executable.
 - Learned general C basics practice across several small programs.
 - Learned defining structs in C.
+- Learned initializing struct values.
