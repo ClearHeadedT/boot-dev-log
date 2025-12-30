@@ -19,3 +19,4 @@
 - Learned for loops in C.
 - Learned while loops in C.
 - Learned do-while loops in C.
+- Learned pragma once and header guards to prevent duplicate includes.
