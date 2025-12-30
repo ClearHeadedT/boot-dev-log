@@ -33,3 +33,4 @@
 - Learned why pointers matter for passing data efficiently.
 - Learned pointer basics, dereferencing and address-of operators.
 - Learned pointers to structs.
+- Learned C arrays and how they relate to pointers.
