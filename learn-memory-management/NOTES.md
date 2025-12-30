@@ -22,3 +22,4 @@
 - Learned pragma once and header guards to prevent duplicate includes.
 - Learned the compilation process, from source to executable.
 - Learned general C basics practice across several small programs.
+- Learned defining structs in C.
