@@ -29,3 +29,4 @@
 - Learned struct padding and memory alignment.
 - Learned what memory addresses are.
 - Learned virtual memory basics.
+- Learned pointers, storing a memory address in a variable.
