@@ -25,3 +25,4 @@
 - Learned defining structs in C.
 - Learned initializing struct values.
 - Learned typedef for naming custom types.
+- Learned sizeof applied to structs.
