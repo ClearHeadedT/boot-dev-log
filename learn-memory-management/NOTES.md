@@ -27,3 +27,4 @@
 - Learned typedef for naming custom types.
 - Learned sizeof applied to structs.
 - Learned struct padding and memory alignment.
+- Learned what memory addresses are.
