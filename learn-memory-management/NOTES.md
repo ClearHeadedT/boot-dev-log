@@ -31,3 +31,4 @@
 - Learned virtual memory basics.
 - Learned pointers, storing a memory address in a variable.
 - Learned why pointers matter for passing data efficiently.
+- Learned pointer basics, dereferencing and address-of operators.
