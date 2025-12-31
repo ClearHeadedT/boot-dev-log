@@ -38,3 +38,4 @@
 - Learned multibyte arrays and memory layout.
 - Learned array casting between types.
 - Learned pointer size and how it differs by architecture.
+- Learned C strings as null-terminated character arrays.
