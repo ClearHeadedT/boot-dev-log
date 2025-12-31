@@ -37,3 +37,4 @@
 - Learned how arrays decay to pointers in C.
 - Learned multibyte arrays and memory layout.
 - Learned array casting between types.
+- Learned pointer size and how it differs by architecture.
