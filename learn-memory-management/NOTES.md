@@ -41,3 +41,4 @@
 - Learned C strings as null-terminated character arrays.
 - Learned the C string library functions.
 - Learned forward declarations for structs and functions.
+- Learned mutual/self-referencing structs using pointers.
