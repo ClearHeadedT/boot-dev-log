@@ -6,3 +6,4 @@
 - Learned Go is statically typed, compared to Python's dynamic typing.
 - Learned Go is compiled, and how that affects speed.
 - Learned Go's type sizes and choosing the right type.
+- Learned declaring multiple variables on the same line.
