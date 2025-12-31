@@ -7,3 +7,4 @@
 - Learned Go is compiled, and how that affects speed.
 - Learned Go's type sizes and choosing the right type.
 - Learned declaring multiple variables on the same line.
+- Learned why Go has a small memory footprint compared to some languages.
