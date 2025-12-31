@@ -40,3 +40,4 @@
 - Learned pointer size and how it differs by architecture.
 - Learned C strings as null-terminated character arrays.
 - Learned the C string library functions.
+- Learned forward declarations for structs and functions.
