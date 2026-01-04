@@ -9,3 +9,4 @@
 - Learned declaring multiple variables on the same line.
 - Learned why Go has a small memory footprint compared to some languages.
 - Learned writing comments in Go.
+- Learned the basics of Go's compilation process.
