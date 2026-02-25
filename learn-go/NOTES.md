@@ -14,3 +14,4 @@
 - Learned constants in Go.
 - Learned computed constants.
 - Learned comparing Go's runtime speed to interpreted languages.
+- Learned formatting strings in Go.
