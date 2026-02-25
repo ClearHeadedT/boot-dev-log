@@ -12,3 +12,4 @@
 - Learned the basics of Go's compilation process.
 - Learned general variable-declaration practice in Go.
 - Learned constants in Go.
+- Learned computed constants.
