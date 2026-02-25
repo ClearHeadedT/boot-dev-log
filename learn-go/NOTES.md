@@ -18,3 +18,4 @@
 - Learned runes and string encoding in Go.
 - Learned Go's type inference.
 - Learned fixing type-related bugs in Go code.
+- Learned if/else conditionals in Go.
