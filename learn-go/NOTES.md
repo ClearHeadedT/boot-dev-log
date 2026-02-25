@@ -20,3 +20,4 @@
 - Learned fixing type-related bugs in Go code.
 - Learned if/else conditionals in Go.
 - Learned the initial statement form of an if block in Go.
+- Learned switch statements in Go.
