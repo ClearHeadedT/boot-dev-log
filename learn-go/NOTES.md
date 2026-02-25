@@ -15,3 +15,4 @@
 - Learned computed constants.
 - Learned comparing Go's runtime speed to interpreted languages.
 - Learned formatting strings in Go.
+- Learned runes and string encoding in Go.
