@@ -11,3 +11,4 @@
 - Learned writing comments in Go.
 - Learned the basics of Go's compilation process.
 - Learned general variable-declaration practice in Go.
+- Learned constants in Go.
