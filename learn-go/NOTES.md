@@ -25,3 +25,4 @@
 - Learned functions with multiple parameters.
 - Learned Go's function declaration syntax.
 - Learned that Go passes variables by value by default.
+- Learned named return values in Go.
