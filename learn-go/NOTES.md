@@ -22,3 +22,4 @@
 - Learned the initial statement form of an if block in Go.
 - Learned switch statements in Go.
 - Learned defining functions in Go.
+- Learned functions with multiple parameters.
