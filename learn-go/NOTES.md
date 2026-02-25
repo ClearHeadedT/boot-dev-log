@@ -23,3 +23,4 @@
 - Learned switch statements in Go.
 - Learned defining functions in Go.
 - Learned functions with multiple parameters.
+- Learned Go's function declaration syntax.
