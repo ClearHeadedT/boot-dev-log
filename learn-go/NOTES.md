@@ -31,3 +31,4 @@
 - Learned treating functions as values in Go.
 - Learned anonymous functions in Go.
 - Learned defer for running cleanup code.
+- Learned block scope in Go.
