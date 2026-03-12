@@ -39,3 +39,4 @@
 - Learned nested structs.
 - Learned anonymous structs.
 - Learned embedded structs for composition.
+- Learned defining methods on Go structs.
