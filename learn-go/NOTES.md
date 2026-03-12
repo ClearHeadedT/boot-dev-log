@@ -49,3 +49,4 @@
 - Learned working with multiple interfaces.
 - Learned naming interface parameters clearly.
 - Learned type assertions in Go.
+- Learned type switches in Go.
