@@ -35,3 +35,4 @@
 - Learned closures in Go.
 - Learned currying in Go.
 - Learned writing unit tests for Go functions.
+- Learned defining structs in Go.
