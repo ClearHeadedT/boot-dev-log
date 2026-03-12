@@ -48,3 +48,4 @@
 - Learned that Go interfaces are implemented implicitly.
 - Learned working with multiple interfaces.
 - Learned naming interface parameters clearly.
+- Learned type assertions in Go.
