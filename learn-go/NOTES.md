@@ -41,3 +41,4 @@
 - Learned embedded structs for composition.
 - Learned defining methods on Go structs.
 - Learned struct memory layout in Go.
+- Learned the empty struct and its uses.
