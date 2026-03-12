@@ -29,3 +29,4 @@
 - Learned the benefits of using named returns.
 - Learned explicit vs. early returns.
 - Learned treating functions as values in Go.
+- Learned anonymous functions in Go.
