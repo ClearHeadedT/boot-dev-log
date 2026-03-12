@@ -37,3 +37,4 @@
 - Learned writing unit tests for Go functions.
 - Learned defining structs in Go.
 - Learned nested structs.
+- Learned anonymous structs.
