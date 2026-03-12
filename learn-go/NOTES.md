@@ -42,3 +42,4 @@
 - Learned defining methods on Go structs.
 - Learned struct memory layout in Go.
 - Learned the empty struct and its uses.
+- Learned a small exercise updating struct fields (users/messages).
