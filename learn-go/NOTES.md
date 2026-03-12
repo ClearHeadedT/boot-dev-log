@@ -33,3 +33,4 @@
 - Learned defer for running cleanup code.
 - Learned block scope in Go.
 - Learned closures in Go.
+- Learned currying in Go.
