@@ -46,3 +46,4 @@
 - Learned interfaces in Go.
 - Learned implementing an interface.
 - Learned that Go interfaces are implemented implicitly.
+- Learned working with multiple interfaces.
