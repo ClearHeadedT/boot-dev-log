@@ -45,3 +45,4 @@
 - Learned a small exercise updating struct fields (users/messages).
 - Learned interfaces in Go.
 - Learned implementing an interface.
+- Learned that Go interfaces are implemented implicitly.
