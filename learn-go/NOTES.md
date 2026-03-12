@@ -27,3 +27,4 @@
 - Learned that Go passes variables by value by default.
 - Learned named return values in Go.
 - Learned the benefits of using named returns.
+- Learned explicit vs. early returns.
