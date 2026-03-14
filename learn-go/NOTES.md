@@ -53,3 +53,4 @@
 - Learned writing clean, minimal interfaces.
 - Learned a message-formatter exercise using interfaces.
 - Learned the error interface in Go.
+- Learned Go's errors package.
