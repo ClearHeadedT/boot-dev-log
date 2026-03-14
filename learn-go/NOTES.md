@@ -50,3 +50,4 @@
 - Learned naming interface parameters clearly.
 - Learned type assertions in Go.
 - Learned type switches in Go.
+- Learned writing clean, minimal interfaces.
