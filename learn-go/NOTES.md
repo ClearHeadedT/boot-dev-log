@@ -57,3 +57,4 @@
 - Learned panic and when it's actually appropriate.
 - Learned handling user input safely with error checks.
 - Learned formatting error strings.
+- Learned reviewing Go error-handling patterns.
