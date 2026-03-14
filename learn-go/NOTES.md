@@ -54,3 +54,4 @@
 - Learned a message-formatter exercise using interfaces.
 - Learned the error interface in Go.
 - Learned Go's errors package.
+- Learned panic and when it's actually appropriate.
