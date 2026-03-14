@@ -51,3 +51,4 @@
 - Learned type assertions in Go.
 - Learned type switches in Go.
 - Learned writing clean, minimal interfaces.
+- Learned a message-formatter exercise using interfaces.
