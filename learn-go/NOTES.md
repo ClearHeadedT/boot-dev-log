@@ -59,3 +59,4 @@
 - Learned formatting error strings.
 - Learned reviewing Go error-handling patterns.
 - Learned for loops in Go, the only loop construct.
+- Learned omitting conditions from a for loop.
