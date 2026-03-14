@@ -58,3 +58,4 @@
 - Learned handling user input safely with error checks.
 - Learned formatting error strings.
 - Learned reviewing Go error-handling patterns.
+- Learned for loops in Go, the only loop construct.
