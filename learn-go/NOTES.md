@@ -63,3 +63,4 @@
 - Learned that Go has no separate while loop keyword.
 - Learned continue and break in Go.
 - Learned a fizzbuzz exercise in Go.
+- Learned arrays in Go.
