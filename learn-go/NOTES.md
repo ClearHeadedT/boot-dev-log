@@ -60,3 +60,4 @@
 - Learned reviewing Go error-handling patterns.
 - Learned for loops in Go, the only loop construct.
 - Learned omitting conditions from a for loop.
+- Learned that Go has no separate while loop keyword.
