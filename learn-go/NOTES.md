@@ -64,3 +64,4 @@
 - Learned continue and break in Go.
 - Learned a fizzbuzz exercise in Go.
 - Learned arrays in Go.
+- Learned slices in Go.
