@@ -65,3 +65,4 @@
 - Learned a fizzbuzz exercise in Go.
 - Learned arrays in Go.
 - Learned slices in Go.
+- Learned make() for creating slices.
