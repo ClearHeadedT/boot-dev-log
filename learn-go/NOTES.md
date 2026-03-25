@@ -66,3 +66,4 @@
 - Learned arrays in Go.
 - Learned slices in Go.
 - Learned make() for creating slices.
+- Learned len and cap for slices.
