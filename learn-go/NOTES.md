@@ -68,3 +68,4 @@
 - Learned make() for creating slices.
 - Learned len and cap for slices.
 - Learned variadic functions in Go.
+- Learned append for growing a slice.
