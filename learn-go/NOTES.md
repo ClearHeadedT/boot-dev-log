@@ -73,3 +73,4 @@
 - Learned slices of slices.
 - Learned tricky slice-aliasing behavior.
 - Learned a message-filter exercise using slices.
+- Learned maps in Go.
