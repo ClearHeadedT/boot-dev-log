@@ -70,3 +70,4 @@
 - Learned variadic functions in Go.
 - Learned append for growing a slice.
 - Learned range for iterating over a slice.
+- Learned slices of slices.
