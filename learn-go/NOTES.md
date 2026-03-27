@@ -72,3 +72,4 @@
 - Learned range for iterating over a slice.
 - Learned slices of slices.
 - Learned tricky slice-aliasing behavior.
+- Learned a message-filter exercise using slices.
