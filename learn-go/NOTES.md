@@ -76,3 +76,4 @@
 - Learned maps in Go.
 - Learned mutating map values.
 - Learned map key types.
+- Learned counting instances using a map.
