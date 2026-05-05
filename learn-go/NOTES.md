@@ -79,3 +79,4 @@
 - Learned counting instances using a map.
 - Learned nested maps.
 - Learned a distinct-words exercise using a map.
+- Learned pointers in Go.
