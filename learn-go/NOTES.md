@@ -80,3 +80,4 @@
 - Learned nested maps.
 - Learned a distinct-words exercise using a map.
 - Learned pointers in Go.
+- Learned references and pass-by-reference in Go.
