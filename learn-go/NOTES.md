@@ -83,3 +83,4 @@
 - Learned references and pass-by-reference in Go.
 - Learned nil pointers and checking for them.
 - Learned pointer receivers on methods.
+- Learned writing pointer-receiver method code.
