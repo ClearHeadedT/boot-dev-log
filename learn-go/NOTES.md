@@ -84,3 +84,4 @@
 - Learned nil pointers and checking for them.
 - Learned pointer receivers on methods.
 - Learned writing pointer-receiver method code.
+- Learned pointer performance tradeoffs.
