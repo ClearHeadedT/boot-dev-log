@@ -85,3 +85,4 @@
 - Learned pointer receivers on methods.
 - Learned writing pointer-receiver method code.
 - Learned pointer performance tradeoffs.
+- Learned an update-balance exercise using pointers.
