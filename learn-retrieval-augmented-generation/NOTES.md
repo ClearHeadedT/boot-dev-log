@@ -2,3 +2,4 @@
 
 - Fixed normalize() min/max swap bug in hybrid_search.py
 - Fixed normalize() TypeError from iterating len(scores) instead of range
+- Fixed normalize() division formula using max-min as the denominator
