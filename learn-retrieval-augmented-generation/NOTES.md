@@ -9,3 +9,4 @@
 - Implemented weighted_search combining BM25 and semantic scores with alpha blending
 - Fixed a duplicate weighted_search method definition
 - Split normalize() into a pure function plus a CLI-printing wrapper
+- Fixed weighted_search_command not forwarding alpha/limit parameters
