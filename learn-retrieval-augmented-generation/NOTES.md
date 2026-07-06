@@ -6,3 +6,4 @@
 - Added early return for the equal-scores normalization case
 - Fixed CLI argparse type=list bug, switched to nargs="*" for score lists
 - Added per-score 4-decimal print formatting for the normalize command
+- Implemented weighted_search combining BM25 and semantic scores with alpha blending
