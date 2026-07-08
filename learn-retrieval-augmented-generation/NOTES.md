@@ -12,3 +12,4 @@
 - Fixed weighted_search_command not forwarding alpha/limit parameters
 - Fixed weighted_search result formatting and score precision
 - Implemented Reciprocal Rank Fusion (RRF) score combination
+- Fixed a duplicate rrf_search method definition
