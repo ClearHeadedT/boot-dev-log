@@ -15,3 +15,4 @@
 - Fixed a duplicate rrf_search method definition
 - Fixed a missing k parameter in rrf_score() calls
 - Fixed a broken score-combining loop using a literal "id" string as dict key
+- Fixed a missing self parameter bug in rrf_search_command
