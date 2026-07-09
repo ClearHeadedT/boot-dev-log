@@ -20,3 +20,4 @@
 - Fixed HybridSearch to reuse its existing semantic_search instance
 - Added LLM-based spell-check query enhancement
 - Added LLM-based query rewrite enhancement
+- Added LLM-based query expansion enhancement, fixed a query-append bug
