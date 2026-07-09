@@ -21,3 +21,4 @@
 - Added LLM-based spell-check query enhancement
 - Added LLM-based query rewrite enhancement
 - Added LLM-based query expansion enhancement, fixed a query-append bug
+- Added an --enhance CLI flag with spell/rewrite/expand choices
