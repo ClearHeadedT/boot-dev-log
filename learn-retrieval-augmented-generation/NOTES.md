@@ -18,3 +18,4 @@
 - Fixed a missing self parameter bug in rrf_search_command
 - Added the missing index_path attribute needed by HybridSearch init
 - Fixed HybridSearch to reuse its existing semantic_search instance
+- Added LLM-based spell-check query enhancement
