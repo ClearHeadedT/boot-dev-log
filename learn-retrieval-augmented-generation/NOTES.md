@@ -17,3 +17,4 @@
 - Fixed a broken score-combining loop using a literal "id" string as dict key
 - Fixed a missing self parameter bug in rrf_search_command
 - Added the missing index_path attribute needed by HybridSearch init
+- Fixed HybridSearch to reuse its existing semantic_search instance
