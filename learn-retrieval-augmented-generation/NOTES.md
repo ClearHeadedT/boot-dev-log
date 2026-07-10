@@ -25,3 +25,4 @@
 - Fixed a CLI routing bug where --enhance rewrite incorrectly triggered spell-check
 - Implemented individual LLM reranking with 0-10 relevance scoring
 - Added a triple-backtick delimiter to the rerank prompt for reliable score parsing
+- Implemented batch LLM reranking returning a ranked ID list
