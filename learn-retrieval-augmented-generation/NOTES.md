@@ -27,3 +27,4 @@
 - Added a triple-backtick delimiter to the rerank prompt for reliable score parsing
 - Implemented batch LLM reranking returning a ranked ID list
 - Fixed a batch-rerank documents parameter type bug (dict vs list)
+- Added a fallback default rank for documents missing from batch LLM results
