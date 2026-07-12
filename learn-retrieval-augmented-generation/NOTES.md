@@ -26,3 +26,4 @@
 - Implemented individual LLM reranking with 0-10 relevance scoring
 - Added a triple-backtick delimiter to the rerank prompt for reliable score parsing
 - Implemented batch LLM reranking returning a ranked ID list
+- Fixed a batch-rerank documents parameter type bug (dict vs list)
