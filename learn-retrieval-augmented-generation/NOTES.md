@@ -30,3 +30,4 @@
 - Added a fallback default rank for documents missing from batch LLM results
 - Truncated batch-rerank prompt documents to avoid oversized LLM requests
 - Implemented cross-encoder reranking using sentence-transformers
+- Fixed a missing key name and return statement in the cross-encoder formatter
