@@ -31,3 +31,4 @@
 - Truncated batch-rerank prompt documents to avoid oversized LLM requests
 - Implemented cross-encoder reranking using sentence-transformers
 - Fixed a missing key name and return statement in the cross-encoder formatter
+- Added a --rerank-method CLI flag with individual/batch/cross_encoder choices
