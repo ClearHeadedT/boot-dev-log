@@ -33,3 +33,4 @@
 - Fixed a missing key name and return statement in the cross-encoder formatter
 - Added a --rerank-method CLI flag with individual/batch/cross_encoder choices
 - Renamed the rerank parameter to individual for naming consistency
+- Added human-readable BM25/semantic rank position tracking for display
