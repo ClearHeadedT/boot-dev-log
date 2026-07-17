@@ -35,3 +35,4 @@
 - Renamed the rerank parameter to individual for naming consistency
 - Added human-readable BM25/semantic rank position tracking for display
 - Added debug logging across the RRF search pipeline stages
+- Scoped debug logging to the project's own logger to avoid third-party noise
