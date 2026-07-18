@@ -40,3 +40,4 @@
 - Built an evaluation CLI loading a golden dataset of query/relevant-doc pairs
 - Implemented precision@k calculation against the golden dataset
 - Implemented recall@k calculation against the golden dataset
+- Implemented F1 score calculation, guarding against division by zero
