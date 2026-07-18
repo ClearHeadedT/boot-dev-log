@@ -39,3 +39,4 @@
 - Added an --evaluate flag using an LLM to score search results 0-3
 - Built an evaluation CLI loading a golden dataset of query/relevant-doc pairs
 - Implemented precision@k calculation against the golden dataset
+- Implemented recall@k calculation against the golden dataset
