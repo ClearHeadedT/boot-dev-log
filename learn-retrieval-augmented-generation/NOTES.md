@@ -37,3 +37,4 @@
 - Added debug logging across the RRF search pipeline stages
 - Scoped debug logging to the project's own logger to avoid third-party noise
 - Added an --evaluate flag using an LLM to score search results 0-3
+- Built an evaluation CLI loading a golden dataset of query/relevant-doc pairs
