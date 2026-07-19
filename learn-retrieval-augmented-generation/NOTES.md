@@ -43,3 +43,4 @@
 - Implemented F1 score calculation, guarding against division by zero
 - Fixed evaluation results not being truncated to the requested limit
 - Built a RAG command combining search retrieval with LLM answer generation
+- Fixed the RAG command not truncating search results before the LLM call
