@@ -50,3 +50,4 @@
 - Added a question command for conversational question answering
 - Added factual/analytical/opinion guidance to the question-answering prompt
 - Fixed movie descriptions being truncated too aggressively, breaking answer accuracy
+- Built a multimodal query-rewriting CLI using an image and text query
