@@ -46,3 +46,4 @@
 - Fixed the RAG command not truncating search results before the LLM call
 - Fixed a list-indexing bug in the augmented-generation result formatter
 - Added a summarize command for multi-document summarization
+- Added a citations command for citation-grounded answers with [1][2] references
