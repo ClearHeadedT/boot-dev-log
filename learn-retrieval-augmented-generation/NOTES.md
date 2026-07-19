@@ -42,3 +42,4 @@
 - Implemented recall@k calculation against the golden dataset
 - Implemented F1 score calculation, guarding against division by zero
 - Fixed evaluation results not being truncated to the requested limit
+- Built a RAG command combining search retrieval with LLM answer generation
