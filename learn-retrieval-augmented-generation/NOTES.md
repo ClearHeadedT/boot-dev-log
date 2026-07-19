@@ -45,3 +45,4 @@
 - Built a RAG command combining search retrieval with LLM answer generation
 - Fixed the RAG command not truncating search results before the LLM call
 - Fixed a list-indexing bug in the augmented-generation result formatter
+- Added a summarize command for multi-document summarization
