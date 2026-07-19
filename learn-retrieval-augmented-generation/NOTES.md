@@ -47,3 +47,4 @@
 - Fixed a list-indexing bug in the augmented-generation result formatter
 - Added a summarize command for multi-document summarization
 - Added a citations command for citation-grounded answers with [1][2] references
+- Added a question command for conversational question answering
