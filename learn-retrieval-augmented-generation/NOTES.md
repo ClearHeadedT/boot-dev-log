@@ -51,3 +51,4 @@
 - Added factual/analytical/opinion guidance to the question-answering prompt
 - Fixed movie descriptions being truncated too aggressively, breaking answer accuracy
 - Built a multimodal query-rewriting CLI using an image and text query
+- Implemented base64 image encoding for OpenRouter's multimodal API
