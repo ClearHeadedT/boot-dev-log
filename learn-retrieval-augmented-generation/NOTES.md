@@ -54,3 +54,4 @@
 - Implemented base64 image encoding for OpenRouter's multimodal API
 - Added mimetypes-based MIME type detection for uploaded images
 - Built a multimodal search module using a CLIP SentenceTransformer model
+- Implemented image embedding generation from an image file path
