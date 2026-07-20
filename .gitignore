@@ -1,0 +1,4 @@
+course_completions.py
+generate_commits.py
+__pycache__/
+*.pyc
