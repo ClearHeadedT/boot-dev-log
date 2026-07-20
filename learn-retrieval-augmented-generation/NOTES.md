@@ -55,3 +55,4 @@
 - Added mimetypes-based MIME type detection for uploaded images
 - Built a multimodal search module using a CLIP SentenceTransformer model
 - Implemented image embedding generation from an image file path
+- Implemented image-to-text cosine similarity search over movie descriptions
