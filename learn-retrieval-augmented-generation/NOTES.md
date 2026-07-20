@@ -52,3 +52,4 @@
 - Fixed movie descriptions being truncated too aggressively, breaking answer accuracy
 - Built a multimodal query-rewriting CLI using an image and text query
 - Implemented base64 image encoding for OpenRouter's multimodal API
+- Added mimetypes-based MIME type detection for uploaded images
